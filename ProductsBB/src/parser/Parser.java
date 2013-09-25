@@ -56,7 +56,7 @@ public class Parser {
 		String model = product.select("span[itemprop=model]").text();
 		prod.setModel(model);
 		System.out.println("Model proizvoda: " + model);
-
+System.out.println("Proba");
 		return prod;
 
 	}
