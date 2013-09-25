@@ -16,9 +16,8 @@ import persistance.DataModelManager;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-import com.hp.hpl.jena.tdb.TDB;
-
 import domain.Product;
+import com.hp.hpl.jena.tdb.TDB;
 import domain.Review;
 
 import rest.parser.ProductJSONParser;

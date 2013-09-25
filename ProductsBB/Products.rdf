@@ -10,7 +10,7 @@ schema:AggregateRating
         <http://thewebsemantic.com/javaclass>
                 "domain.AggregateRating" .
 
-products:e67cfc6c-545b-467e-a822-530db366cba8
+products:70a0c3d9-b46f-4f0f-aced-a890a28e2e3c
         a                   schema:AggregateRating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.1"^^xsd:double ;
@@ -21,7 +21,7 @@ schema:Rating  a  <http://www.w3.org/2000/01/rdf-schema#Class> ;
         <http://thewebsemantic.com/javaclass>
                 "domain.Rating" .
 
-products:5813b927-69e5-4c7d-a537-3a753f07175e
+products:6f7afc8f-9b40-4f9d-b213-1553064451f6
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
@@ -31,145 +31,145 @@ schema:Review  a  <http://www.w3.org/2000/01/rdf-schema#Class> ;
         <http://thewebsemantic.com/javaclass>
                 "domain.Review" .
 
-products:2f9bf0e7-be69-44e7-9069-969c965f252e
+products:b7351b56-2828-4f43-9829-3da86ecdcf8b
         a                     schema:Review ;
         schema:author         "Wyszkal"^^xsd:string ;
         schema:datePublished  "2013-09-20T22:00:00Z"^^xsd:dateTime ;
         schema:description    "For the less than $100 a beginner enthusiast can get started with little knowledge by following the CDs that are included. The protective case is excellent for those that want to be mobile with it. The sound, for the beginner, is really nice. For the parent with a child interested in guitar playing, this is a good way to do it without making a huge investment."^^xsd:string ;
         schema:name           "Excellent package for a beginner"^^xsd:string ;
-        schema:reviewRating   products:5813b927-69e5-4c7d-a537-3a753f07175e .
+        schema:reviewRating   products:6f7afc8f-9b40-4f9d-b213-1553064451f6 .
 
-products:d875970a-96cc-40d6-8078-4eb6c50323cd
+products:e4c0ee0b-2b59-4bf3-a1db-ba1ac16e6838
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:6b01d0da-44da-4315-8f75-328073d12946
+products:ae5505fd-733e-4383-8b86-a75da1166fbf
         a                     schema:Review ;
         schema:author         "Gina28"^^xsd:string ;
         schema:datePublished  "2013-09-02T22:00:00Z"^^xsd:dateTime ;
         schema:description    "It's a very good guitar for an adult, but it's uncomfortable to play on it due to the large size. I could not play on it while sitting on the chair, because it was uncomfortable to hold it on and you need to stand-up while you are playing. I am a female and I need a smaller guitar. I returned it. The DVDs are very good quality. It contains a lot of information."^^xsd:string ;
         schema:name           "Great guitar"^^xsd:string ;
-        schema:reviewRating   products:d875970a-96cc-40d6-8078-4eb6c50323cd .
+        schema:reviewRating   products:e4c0ee0b-2b59-4bf3-a1db-ba1ac16e6838 .
 
-products:77287d76-f6b6-4784-a1b3-2594af10c472
+products:a8aaab38-197c-4501-b044-1e091b5a1f66
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:8863a68c-5daf-415f-b2f4-983560e5b3c4
+products:262bb606-f050-4eb0-88f1-c174d2e7a5b6
         a                     schema:Review ;
         schema:author         "dinooooooo"^^xsd:string ;
         schema:datePublished  "2013-08-15T22:00:00Z"^^xsd:dateTime ;
         schema:description    "this is a great guitar for a beginer; however even if you are not it has great sound and looks beautiful. great balance as well"^^xsd:string ;
         schema:name           "Great Sound; Quality work"^^xsd:string ;
-        schema:reviewRating   products:77287d76-f6b6-4784-a1b3-2594af10c472 .
+        schema:reviewRating   products:a8aaab38-197c-4501-b044-1e091b5a1f66 .
 
-products:a3234c8a-1838-45ca-923f-88b3ec89a557
+products:51df2df1-5cdd-4ffc-aa15-28bf2ef408dc
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:02e854ac-2247-4e11-83f1-f49f320cd461
+products:4e4710cb-8657-4560-babf-411e982fe3e4
         a                     schema:Review ;
         schema:author         "bizzzu"^^xsd:string ;
         schema:datePublished  "2013-08-08T22:00:00Z"^^xsd:dateTime ;
         schema:description    "cost is cheap. sound is ok. it really good for beginner"^^xsd:string ;
         schema:name           "great"^^xsd:string ;
-        schema:reviewRating   products:a3234c8a-1838-45ca-923f-88b3ec89a557 .
+        schema:reviewRating   products:51df2df1-5cdd-4ffc-aa15-28bf2ef408dc .
 
-products:656aae60-e773-4d14-8a85-d3ee06ee43ee
+products:d1aee09d-d1f9-4f0a-97e5-cca38583191f
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:2b333a6f-622d-497f-8693-be57bacf25ee
+products:afc11251-1177-4606-9e16-0cef75bb9d50
         a                     schema:Review ;
         schema:author         "Bestbuyzone"^^xsd:string ;
         schema:datePublished  "2013-08-05T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Got this on a deal of the day price as a learning guitar for the family. All the necessary accessories and instructional CD's were included. Great value. Bought the Snark guitar tuner online at a deal price also and it works great. A necessity since I wouldn't be able to tell if the guitar was in tune without it!"^^xsd:string ;
         schema:name           "Great beginner guitar"^^xsd:string ;
-        schema:reviewRating   products:656aae60-e773-4d14-8a85-d3ee06ee43ee .
+        schema:reviewRating   products:d1aee09d-d1f9-4f0a-97e5-cca38583191f .
 
-products:0723908b-0c47-4082-86f2-d7013b7f31de
+products:116f03d0-d807-44d9-9a0d-2242fe245495
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:72f841d0-5e41-4ef5-8032-54dbfe890843
+products:ac6a4b81-2d85-421e-9fe9-5b8c1e5b4f80
         a                     schema:Review ;
         schema:author         "PablotheDog"^^xsd:string ;
         schema:datePublished  "2013-08-04T22:00:00Z"^^xsd:dateTime ;
         schema:description    "If you want to learn how to play the guitar this is a great place to start. The DVDs are helpful, informative, and actually easy to follow along. Not the best guitar in the world but it's a cheap way to get started."^^xsd:string ;
         schema:name           "Not a bad choice for a first guitar"^^xsd:string ;
-        schema:reviewRating   products:0723908b-0c47-4082-86f2-d7013b7f31de .
+        schema:reviewRating   products:116f03d0-d807-44d9-9a0d-2242fe245495 .
 
-products:4896647b-949c-412b-90c0-84a7755ec1d1
+products:fb3661ba-184d-4cdd-8b6b-7d1d33454d01
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:6210433d-284f-44bd-9b22-1cb70b510c5f
+products:8ca7d433-0ff6-457a-939a-cd4c1e00ade8
         a                     schema:Review ;
         schema:author         "ScottRJ"^^xsd:string ;
         schema:datePublished  "2013-07-25T22:00:00Z"^^xsd:dateTime ;
         schema:description    "This was bought as a birthday gift for my wife, who always wanted to own and learn how to play a guitar. Wish granted via Best Buy. It came out of the box terribly out of tune, but after a few minutes it was sounding pretty good. (Still took it to a professional later and had it really tuned correctly). The DVD's were easy to follow and within a few days she was playing enough cords to string together a song or two. Happy wife = happy life!"^^xsd:string ;
         schema:name           "Great first guitar"^^xsd:string ;
-        schema:reviewRating   products:4896647b-949c-412b-90c0-84a7755ec1d1 .
+        schema:reviewRating   products:fb3661ba-184d-4cdd-8b6b-7d1d33454d01 .
 
-products:12ea264d-7eed-4033-ab98-34a543ffc414
+products:69ebcbf1-f87d-4b68-b3ac-d86543080b2d
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:e9e01272-8a10-4211-8058-6b2a1e57f6bf
+products:1a7c3060-8336-4ef2-a2e3-a948db1f2506
         a                     schema:Review ;
         schema:author         "chelsplays"^^xsd:string ;
         schema:datePublished  "2013-07-18T22:00:00Z"^^xsd:dateTime ;
         schema:description    "We purchased this unexpectedly while shopping in the store and gave to our daughter as a surprise gift! She has practiced and played daily until her fingers have become calloused! She has gotten so much better with her overall skills! We couldn't be happier with our decision. Not to mention, it was a fabulous sale price, but, more important was the smile on her face and the joy we had in presenting it to her!"^^xsd:string ;
         schema:name           "Great guitar for an intermediate player"^^xsd:string ;
-        schema:reviewRating   products:12ea264d-7eed-4033-ab98-34a543ffc414 .
+        schema:reviewRating   products:69ebcbf1-f87d-4b68-b3ac-d86543080b2d .
 
-products:d7755fd3-029b-4df8-9c3b-c69e51b913ad
+products:495171fa-c077-49e1-9317-dac4d97f3155
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:1b9c0953-7b25-4320-ac90-fc21458daa9e
+products:dffd57ed-407c-4ede-870b-a9d7cc383c16
         a                     schema:Review ;
         schema:author         "nosman"^^xsd:string ;
         schema:datePublished  "2013-07-04T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Love them, twins love them, on their way to learning how to play. They are both active in band and have a good ear for chords and tab. They both agree that they are very nice guitars."^^xsd:string ;
         schema:name           "Great sounding guitar, bought two for 13 year olds"^^xsd:string ;
-        schema:reviewRating   products:d7755fd3-029b-4df8-9c3b-c69e51b913ad .
+        schema:reviewRating   products:495171fa-c077-49e1-9317-dac4d97f3155 .
 
-products:f061cefd-b2aa-4a88-a846-11b92e33261a
+products:2b8c9f8d-a332-4021-8cda-1c284b65aaee
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:abf4534c-aa9f-44b5-b2d1-3de3e343bcc1
+products:cc1ad016-7f44-4f20-a8cb-acfaa227c511
         a                     schema:Review ;
         schema:author         "Longine"^^xsd:string ;
         schema:datePublished  "2013-06-20T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Is a great guitar for beginner and the price is good"^^xsd:string ;
         schema:name           "Great guitar for beginner"^^xsd:string ;
-        schema:reviewRating   products:f061cefd-b2aa-4a88-a846-11b92e33261a .
+        schema:reviewRating   products:2b8c9f8d-a332-4021-8cda-1c284b65aaee .
 
 schema:Brand  a  <http://www.w3.org/2000/01/rdf-schema#Class> ;
         <http://thewebsemantic.com/javaclass>
                 "domain.Brand" .
 
-products:3ad5ee0f-850d-41c8-adb1-e31eb69da650
+products:23ae7310-31b2-43cd-80b4-149aee8c228d
         a            schema:Brand ;
         schema:name  "Maestro by Gibson"^^xsd:string .
 
@@ -177,7 +177,7 @@ schema:Organization  a  <http://www.w3.org/2000/01/rdf-schema#Class> ;
         <http://thewebsemantic.com/javaclass>
                 "domain.Organization" .
 
-products:f9528926-2e4a-4fb2-bac3-29bd18e4bd7c
+products:e5bfdcce-1c09-4f64-ad5e-7ee75dac279a
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
@@ -185,1037 +185,994 @@ schema:Offer  a  <http://www.w3.org/2000/01/rdf-schema#Class> ;
         <http://thewebsemantic.com/javaclass>
                 "domain.Offer" .
 
-products:83feb9af-4b41-445e-a15c-5dc57e800f99
+products:b663af04-1099-4abe-b8f6-734122c65c42
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "99.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:f9528926-2e4a-4fb2-bac3-29bd18e4bd7c .
+        schema:seller         products:e5bfdcce-1c09-4f64-ad5e-7ee75dac279a .
 
 schema:Product  a  <http://www.w3.org/2000/01/rdf-schema#Class> ;
         <http://thewebsemantic.com/javaclass>
                 "domain.Product" .
 
-products:5d781c88-91ac-4a46-8677-8ecf6873fd15
+products:ab4bcad3-1187-49da-9d50-4cecbab05a5c
         a                       schema:Product ;
-        schema:aggregateRating  products:e67cfc6c-545b-467e-a822-530db366cba8 ;
-        schema:brand            products:3ad5ee0f-850d-41c8-adb1-e31eb69da650 ;
+        schema:aggregateRating  products:70a0c3d9-b46f-4f0f-aced-a890a28e2e3c ;
+        schema:brand            products:23ae7310-31b2-43cd-80b4-149aee8c228d ;
         schema:description      "The rosewood fingerboard atop the set nato/basswood neck of this Maestro by Gibson MA41NACH6 6-string full-size acoustic guitar provides a comfortably playable surface and combines with its spruce and mahogany laminate body to help deliver vibrant tone."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/5015/5015519_sa.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "MA41NACH6"^^xsd:string ;
         schema:name             "Maestro by Gibson - 6-String Full-Size Acoustic Guitar - Natural"^^xsd:string ;
-        schema:offers           products:83feb9af-4b41-445e-a15c-5dc57e800f99 ;
+        schema:offers           products:b663af04-1099-4abe-b8f6-734122c65c42 ;
         schema:productID        "5015519"^^xsd:string ;
-        schema:reviews          products:2f9bf0e7-be69-44e7-9069-969c965f252e , products:6b01d0da-44da-4315-8f75-328073d12946 , products:8863a68c-5daf-415f-b2f4-983560e5b3c4 , products:02e854ac-2247-4e11-83f1-f49f320cd461 , products:2b333a6f-622d-497f-8693-be57bacf25ee , products:72f841d0-5e41-4ef5-8032-54dbfe890843 , products:6210433d-284f-44bd-9b22-1cb70b510c5f , products:e9e01272-8a10-4211-8058-6b2a1e57f6bf , products:1b9c0953-7b25-4320-ac90-fc21458daa9e , products:abf4534c-aa9f-44b5-b2d1-3de3e343bcc1 ;
+        schema:reviews          products:b7351b56-2828-4f43-9829-3da86ecdcf8b , products:ae5505fd-733e-4383-8b86-a75da1166fbf , products:262bb606-f050-4eb0-88f1-c174d2e7a5b6 , products:4e4710cb-8657-4560-babf-411e982fe3e4 , products:afc11251-1177-4606-9e16-0cef75bb9d50 , products:ac6a4b81-2d85-421e-9fe9-5b8c1e5b4f80 , products:8ca7d433-0ff6-457a-939a-cd4c1e00ade8 , products:1a7c3060-8336-4ef2-a2e3-a948db1f2506 , products:dffd57ed-407c-4ede-870b-a9d7cc383c16 , products:cc1ad016-7f44-4f20-a8cb-acfaa227c511 ;
         schema:url              <http://www.bestbuy.com/site/maestro-by-gibson-6-string-full-size-acoustic-guitar-natural/5015519.p?id=1218597269256&skuId=5015519> .
 
-products:2be065f5-2020-405f-9689-4c1b49623b41
+products:92a5e98f-fd1c-47a2-b879-3dd547066a16
         a                   schema:AggregateRating ;
         schema:bestRating   5 ;
         schema:ratingValue  "3.8"^^xsd:double ;
         schema:reviewCount  20 ;
         schema:worstRating  1 .
 
-products:15d4c44c-ed31-4633-b23c-284252dcbbda
+products:cce5c20b-58e5-4051-97e9-004cad0fd953
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "1.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:49c9236b-18e4-40d0-9d08-e9c4790c8d96
+products:780eb934-fcf4-4c26-bcd3-b0fc33cd6939
         a                     schema:Review ;
         schema:author         "GuitarZZZ"^^xsd:string ;
         schema:datePublished  "2013-09-08T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I bought two of these for my children. One I was able to set up by putting on some Martin strings and lowering the action. It sounds good enough for my daughter to use as a beginner, and later a beater guitar for camping etc. The other was a train wreck. I put new Martin strings on but the fret board was so dry that it was cracked and frets were popping out everywhere. When I lowered the action to a playable height I had a bunch of dead strings above the 10th fret. I could've spent 5 hours filing frets and trying to get it playable but I've become so disappointed in this guitar I may just give it away. Gibson should not put their name on this. I just bought a 2013 Gibson Les Paul Standard and the QC on it was questionable too. An Allen screw fell out of the tail piece as I was tuning it?!? I'd expect that in an $89 guitar but a $3000 guitar? You'd think they would pay a little more attention to QC. Buy a Yamaha, seriously. For a little more you get 10 times as much."^^xsd:string ;
         schema:name           "Save your money"^^xsd:string ;
-        schema:reviewRating   products:15d4c44c-ed31-4633-b23c-284252dcbbda .
+        schema:reviewRating   products:cce5c20b-58e5-4051-97e9-004cad0fd953 .
 
-products:b907c470-8525-4af3-b8f8-233e8cc3d3df
+products:bc639542-e4b7-4857-b26c-d56e54f4da0c
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:e6234a1f-796f-41a0-b996-62d66df85963
+products:1ccb1b1c-c733-4669-b2e3-c337090b7155
         a                     schema:Review ;
         schema:author         "bics"^^xsd:string ;
         schema:datePublished  "2013-08-29T22:00:00Z"^^xsd:dateTime ;
         schema:description    "first one, there were two stray white dots on the face, and the d string broke as i tuned it. the second one was really bad, the fret edges were sharp and caught my fingers, the pick guard was half on, half off, so by comparison the first one looked and felt much better, but the second one the strings did not break. i ended up keeping the first one, and returning the second. good value for first guitar for a beginner."^^xsd:string ;
         schema:name           "quality differs guitar to guitar"^^xsd:string ;
-        schema:reviewRating   products:b907c470-8525-4af3-b8f8-233e8cc3d3df .
+        schema:reviewRating   products:bc639542-e4b7-4857-b26c-d56e54f4da0c .
 
-products:047a2461-c2be-4ce9-9687-98b0a227a14d
+products:21ae61a4-4c80-422c-b1df-f275a2362600
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:27e4add8-403c-4405-8d5c-c65b68b12542
+products:fd7caddb-0ed4-4f7e-a3b3-c61ec1c6c59c
         a                     schema:Review ;
         schema:author         "KTM1061"^^xsd:string ;
         schema:datePublished  "2013-08-19T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I would recommend for any beginner. My son is learning and he loves it."^^xsd:string ;
         schema:name           "Great for a beginnner. My son is just learning"^^xsd:string ;
-        schema:reviewRating   products:047a2461-c2be-4ce9-9687-98b0a227a14d .
+        schema:reviewRating   products:21ae61a4-4c80-422c-b1df-f275a2362600 .
 
-products:cce5a1e8-0421-47f4-8f92-9543a9edb9ed
+products:85f5fcd5-3db6-4b0c-b452-44a72dfaf7ba
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:27c0566f-4c50-42bc-ad63-c31f8d0eaf5b
+products:8221da19-8478-4cca-8591-b6afe8330b17
         a                     schema:Review ;
         schema:author         "Melissa01"^^xsd:string ;
         schema:datePublished  "2013-07-18T22:00:00Z"^^xsd:dateTime ;
         schema:description    "This guitar is very beautiful. I was so surprised to get such a nice guitar at this price."^^xsd:string ;
         schema:name           "Great for beginner"^^xsd:string ;
-        schema:reviewRating   products:cce5a1e8-0421-47f4-8f92-9543a9edb9ed .
+        schema:reviewRating   products:85f5fcd5-3db6-4b0c-b452-44a72dfaf7ba .
 
-products:291338b0-a635-4815-bded-41eda286ce97
+products:5970253c-d54c-4f09-b140-5e73cdeff1f2
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:8b3d57e6-e205-43fe-9b65-cd6cdf8bbff4
+products:a91d04fa-73b2-4d8a-a311-e5b8144f3886
         a                     schema:Review ;
         schema:author         "Shortskirtlongjacket"^^xsd:string ;
         schema:datePublished  "2013-05-30T22:00:00Z"^^xsd:dateTime ;
         schema:description    "We bought this for our son (7 years old), and for the little he uses it, it is a great value for the money. However, I think if we start him in lessons, we will need to get something more \"solid.\""^^xsd:string ;
         schema:name           "Great size and price for a child's first guitar."^^xsd:string ;
-        schema:reviewRating   products:291338b0-a635-4815-bded-41eda286ce97 .
+        schema:reviewRating   products:5970253c-d54c-4f09-b140-5e73cdeff1f2 .
 
-products:77c80fc2-a4dc-40b7-b189-8614aee00baa
+products:50fa1db2-d030-491f-a75b-84e5ee8cd6c7
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:19568b53-7df7-4b68-ab60-1fa97fdb9c78
+products:24b6a3a5-b6a0-4514-a599-0ea3de9bbcee
         a                     schema:Review ;
         schema:author         "MANOPU"^^xsd:string ;
         schema:datePublished  "2013-05-29T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I was surprised at the quality and accessories for the price. Very nice instrument...Gibson quality."^^xsd:string ;
         schema:name           "Great second or starter guitar."^^xsd:string ;
-        schema:reviewRating   products:77c80fc2-a4dc-40b7-b189-8614aee00baa .
+        schema:reviewRating   products:50fa1db2-d030-491f-a75b-84e5ee8cd6c7 .
 
-products:90c636a3-a7d0-4a3d-88e6-9182cf230d85
+products:3f15c864-4080-4409-b5d8-2647f5588f08
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "1.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:4cf000c3-eed5-448d-9487-cc320e205b1a
+products:0d3f5fad-2356-4fe1-988e-11167804e6ef
         a                     schema:Review ;
         schema:author         "John1135"^^xsd:string ;
         schema:datePublished  "2013-05-24T22:00:00Z"^^xsd:dateTime ;
         schema:description    "The guitar was bad out of the box first off the tenth fret was superglued on. Yea that's right not even pressed in to the wood just glue. Then the tuners they won't hold a tune if the world depended on it if you could get it in tune . No person should have to be stuck with this thing"^^xsd:string ;
         schema:name           "Sucks"^^xsd:string ;
-        schema:reviewRating   products:90c636a3-a7d0-4a3d-88e6-9182cf230d85 .
+        schema:reviewRating   products:3f15c864-4080-4409-b5d8-2647f5588f08 .
 
-products:669c8b39-5bac-4ccd-b3f2-fb9358a18b98
+products:2b3f3fa1-9e8b-4a9c-87cc-08ed371c02b7
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "3.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:349fb833-55cd-4377-a9d0-64f62fd72aa8
+products:44e0b52f-621f-481e-939e-7da772a7643f
         a                     schema:Review ;
         schema:author         "gitstarter"^^xsd:string ;
         schema:datePublished  "2013-05-24T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Perfect for a real starter guitar at this price point."^^xsd:string ;
         schema:name           "great for a kid to beat up a bit"^^xsd:string ;
-        schema:reviewRating   products:669c8b39-5bac-4ccd-b3f2-fb9358a18b98 .
+        schema:reviewRating   products:2b3f3fa1-9e8b-4a9c-87cc-08ed371c02b7 .
 
-products:6ea0e53e-cce4-479a-b6d2-9373bf5a1070
+products:8f8135fb-cff0-4f97-8452-ea7600f65a01
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "3.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:7d0fd023-e434-4c96-9682-b9915e300751
+products:734827ec-ff9b-4e99-b514-20faab8e2f2d
         a                     schema:Review ;
         schema:author         "Porkshanks"^^xsd:string ;
         schema:datePublished  "2013-05-16T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Good deal for listed price. Seems sturdy and the accessories that come with it are a pleasant bonus."^^xsd:string ;
         schema:name           "Purchased for my 8 year old son. Still intact."^^xsd:string ;
-        schema:reviewRating   products:6ea0e53e-cce4-479a-b6d2-9373bf5a1070 .
+        schema:reviewRating   products:8f8135fb-cff0-4f97-8452-ea7600f65a01 .
 
-products:b9d78946-e4ed-49fb-86b0-dadd5f1b146d
+products:926678c0-c557-4752-8c7a-41d5f234fe4b
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:beb765a1-4621-4789-a751-20289d3535b2
+products:81043baf-7f31-4f84-ab2d-96c1bdf571ad
         a                     schema:Review ;
         schema:author         "RFgal"^^xsd:string ;
         schema:datePublished  "2013-05-09T22:00:00Z"^^xsd:dateTime ;
         schema:description    "It's exactly what I was looking for to give my daughter without breaking the bank only to find out she didnt' really like guitar after all."^^xsd:string ;
         schema:name           "The perfect guitar for a beginner girl"^^xsd:string ;
-        schema:reviewRating   products:b9d78946-e4ed-49fb-86b0-dadd5f1b146d .
+        schema:reviewRating   products:926678c0-c557-4752-8c7a-41d5f234fe4b .
 
-products:239e9c8a-1fce-4f18-a947-c76ad9cc162d
+products:4cf69fd9-7e72-48f3-b531-c7a1ecb0417b
         a            schema:Brand ;
         schema:name  "Maestro by Gibson"^^xsd:string .
 
-products:d202ed75-00e0-49de-a5de-2360695ba46f
+products:d8fc4e08-73d7-4321-a8f3-a0c9ba54c063
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:68d51b2e-91b4-416c-97b6-8aa5826fda35
+products:b68387d5-d263-45ea-96cd-8e45eadbd96d
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "89.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:d202ed75-00e0-49de-a5de-2360695ba46f .
+        schema:seller         products:d8fc4e08-73d7-4321-a8f3-a0c9ba54c063 .
 
-products:7007eeef-3cfd-4a9a-bba8-5ece3eaa7f32
+products:382b47e7-57a4-4b3e-ac40-6e07d82e5974
         a                       schema:Product ;
-        schema:aggregateRating  products:2be065f5-2020-405f-9689-4c1b49623b41 ;
-        schema:brand            products:239e9c8a-1fce-4f18-a947-c76ad9cc162d ;
+        schema:aggregateRating  products:92a5e98f-fd1c-47a2-b879-3dd547066a16 ;
+        schema:brand            products:4cf69fd9-7e72-48f3-b531-c7a1ecb0417b ;
         schema:description      "Sonorous tone, strength and stability come together in this Maestro by Gibson MA38BKCH6 6-string parlor-size acoustic guitar that features a spruce top, mahogany laminate back and sides, a nato/basswood neck and medium-gauge phosphor bronze strings."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/5015/5015494_ra.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "MA38BKCH6"^^xsd:string ;
         schema:name             "Maestro by Gibson - 6-String Parlor-Size Acoustic Guitar - Black"^^xsd:string ;
-        schema:offers           products:68d51b2e-91b4-416c-97b6-8aa5826fda35 ;
+        schema:offers           products:b68387d5-d263-45ea-96cd-8e45eadbd96d ;
         schema:productID        "5015494"^^xsd:string ;
-        schema:reviews          products:49c9236b-18e4-40d0-9d08-e9c4790c8d96 , products:e6234a1f-796f-41a0-b996-62d66df85963 , products:27e4add8-403c-4405-8d5c-c65b68b12542 , products:27c0566f-4c50-42bc-ad63-c31f8d0eaf5b , products:8b3d57e6-e205-43fe-9b65-cd6cdf8bbff4 , products:19568b53-7df7-4b68-ab60-1fa97fdb9c78 , products:4cf000c3-eed5-448d-9487-cc320e205b1a , products:349fb833-55cd-4377-a9d0-64f62fd72aa8 , products:7d0fd023-e434-4c96-9682-b9915e300751 , products:beb765a1-4621-4789-a751-20289d3535b2 ;
+        schema:reviews          products:780eb934-fcf4-4c26-bcd3-b0fc33cd6939 , products:1ccb1b1c-c733-4669-b2e3-c337090b7155 , products:fd7caddb-0ed4-4f7e-a3b3-c61ec1c6c59c , products:8221da19-8478-4cca-8591-b6afe8330b17 , products:a91d04fa-73b2-4d8a-a311-e5b8144f3886 , products:24b6a3a5-b6a0-4514-a599-0ea3de9bbcee , products:0d3f5fad-2356-4fe1-988e-11167804e6ef , products:44e0b52f-621f-481e-939e-7da772a7643f , products:734827ec-ff9b-4e99-b514-20faab8e2f2d , products:81043baf-7f31-4f84-ab2d-96c1bdf571ad ;
         schema:url              <http://www.bestbuy.com/site/maestro-by-gibson-6-string-parlor-size-acoustic-guitar-black/5015494.p?id=1218597269454&skuId=5015494> .
 
-products:709fccb3-3159-476d-a4ae-6d7e1b2f34fe
+products:1cca298f-5ca4-426a-8b4b-adef445de3d7
         a                   schema:AggregateRating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.1"^^xsd:double ;
         schema:reviewCount  9 ;
         schema:worstRating  1 .
 
-products:d7c3849c-1cf2-4dec-873f-2eb77ff2f9e0
+products:c87dc9bd-c89c-4536-8ef5-ce3e0c99130d
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:bea48dc1-c6ed-45fc-b1b3-e4f3fdbd148d
+products:42f0e5c4-aab7-4766-8cc6-5e053db616b2
         a                     schema:Review ;
         schema:author         "GOODGUITARPLAYER"^^xsd:string ;
         schema:datePublished  "2013-08-29T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I bought this guitar with clearance sale! awesome! It was a good guitar that I want to get so At a glance of this guitar, I bought it and now I enjoy playing guitar in home. It's smaller than other guitar. It's good for bring to another place and enjoying playing in the other place. In short, good for travel. And I'm a woman. so sometimes it's hard to grip some cord of guitar. but it's neck was thiner than other guitar so it could be possible to grip easy."^^xsd:string ;
         schema:name           "A Goooooooood quality and price guitar!"^^xsd:string ;
-        schema:reviewRating   products:d7c3849c-1cf2-4dec-873f-2eb77ff2f9e0 .
+        schema:reviewRating   products:c87dc9bd-c89c-4536-8ef5-ce3e0c99130d .
 
-products:460df3b8-cfb3-4a3b-972a-e6839cceabb7
+products:6cb7d595-2c30-44a7-83dd-2b218f31d6ca
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:d868b852-3fe9-4c23-9afc-bb025963867c
+products:0795ca47-24bf-47a1-b631-4e3da0b6ddc0
         a                     schema:Review ;
         schema:author         "GuitarNewbie"^^xsd:string ;
         schema:datePublished  "2013-08-22T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Had checked out this item online, and thought it fit the bill. Went to the store to get a closer look and found it was on clearance! What a pleasant surprise. Great value for a beginner like me. Did not want to spend a fortune . Very pleased with this purchase thus far!"^^xsd:string ;
         schema:name           "Nice guitar for beginner"^^xsd:string ;
-        schema:reviewRating   products:460df3b8-cfb3-4a3b-972a-e6839cceabb7 .
+        schema:reviewRating   products:6cb7d595-2c30-44a7-83dd-2b218f31d6ca .
 
-products:b65fc8c6-2e65-4784-af4e-5f52e5afae65
+products:f23624ca-5777-4a77-aef6-fdc431292606
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:b1c7cc81-a4ac-4309-acb0-527cc067744d
+products:dd4c1d7b-960b-4cfa-b04e-f98ba5c49730
         a                     schema:Review ;
         schema:author         "ReyM"^^xsd:string ;
         schema:datePublished  "2013-08-17T22:00:00Z"^^xsd:dateTime ;
         schema:description    "A great guitar for a beginner and the price is very reasonable. It doesn't sounds like high end acoustic guitar but it's sound good . I like it!"^^xsd:string ;
         schema:name           "Great guitar for a beginner"^^xsd:string ;
-        schema:reviewRating   products:b65fc8c6-2e65-4784-af4e-5f52e5afae65 .
+        schema:reviewRating   products:f23624ca-5777-4a77-aef6-fdc431292606 .
 
-products:6c26ae47-c4a7-4051-8897-75ea6bf702c4
+products:fb0c64d4-e177-4823-a7ea-56872914faf3
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:0dbc4527-67ad-4c8e-a232-cca7a1754655
+products:1c5844ec-f3eb-440d-8eee-d3c05c1dc30e
         a                     schema:Review ;
         schema:author         "grizzlydan"^^xsd:string ;
         schema:datePublished  "2013-07-18T22:00:00Z"^^xsd:dateTime ;
         schema:description    "This guitar is OK for a starter guitar, it plays well and stays in tune but doesn't have the best tone compared to a higher end guitar"^^xsd:string ;
         schema:name           "decent"^^xsd:string ;
-        schema:reviewRating   products:6c26ae47-c4a7-4051-8897-75ea6bf702c4 .
+        schema:reviewRating   products:fb0c64d4-e177-4823-a7ea-56872914faf3 .
 
-products:130b199a-1ea3-441b-9665-10d90b3470e7
+products:00a59d8b-2280-4c34-942f-e5acafc21a53
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:64c6b849-0a92-4550-ac28-ec5594b012ef
+products:42d07532-1eb8-47fd-b53a-c668b4c559bf
         a                     schema:Review ;
         schema:author         "Shortskirtlongjacket"^^xsd:string ;
         schema:datePublished  "2013-05-30T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I am using this to learn \"with\" my children. I needed my own guitar to play along with DVD lessons. This guitar has a wonderful sound quality and is an incredible value for the money. My Dad couldn't believe we paid less than $100 for a Fender -- what a deal!"^^xsd:string ;
         schema:name           "An affordable Fender? Who knew!!"^^xsd:string ;
-        schema:reviewRating   products:130b199a-1ea3-441b-9665-10d90b3470e7 .
+        schema:reviewRating   products:00a59d8b-2280-4c34-942f-e5acafc21a53 .
 
-products:979904f9-1026-4a8b-8891-af0fc1346241
+products:ff70f94d-f747-4990-bf8b-0c12fa3bdeac
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:2f54f97a-6c5c-4171-932e-1687ccf74465
+products:fdee13df-0e71-4e95-b0bf-193efbb2d400
         a                     schema:Review ;
         schema:author         "abacadabra"^^xsd:string ;
         schema:datePublished  "2013-01-26T23:00:00Z"^^xsd:dateTime ;
         schema:description    "As my second guitar, the FA-100 Acoustic guitar has a great sound quality and is extremely easy to play. Great guitar overall."^^xsd:string ;
         schema:name           "Great guitar for learning"^^xsd:string ;
-        schema:reviewRating   products:979904f9-1026-4a8b-8891-af0fc1346241 .
+        schema:reviewRating   products:ff70f94d-f747-4990-bf8b-0c12fa3bdeac .
 
-products:cd163f88-cb04-41b4-b8c6-c3ae515aa87a
+products:4b00c875-70f5-4c5d-87ba-0be15f6515e0
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:e074a75b-599b-4dfd-97b4-7d26a9ee2988
+products:66c0eb0d-8649-4b75-8d9b-47589f523658
         a                     schema:Review ;
         schema:author         "SirWHUB"^^xsd:string ;
         schema:datePublished  "2013-01-25T23:00:00Z"^^xsd:dateTime ;
         schema:description    "This was bought as a gift for my adult son who is learning to play. He loved the contrasting wood design and that it was a Fender. He did however change out strings to a softer type which in turn produced a much richer sound. Frets are done well - nothing sloppy here. Great guitar for the price!"^^xsd:string ;
         schema:name           "Great guitar for beginner and intermediate"^^xsd:string ;
-        schema:reviewRating   products:cd163f88-cb04-41b4-b8c6-c3ae515aa87a .
+        schema:reviewRating   products:4b00c875-70f5-4c5d-87ba-0be15f6515e0 .
 
-products:3208e14d-5c92-4280-a9e5-41af603f3d7d
+products:57d29b8a-8062-4041-bfa9-aea7195eb2ae
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:a85c4079-1527-4b56-9d21-aee8de00f7a5
+products:6c0dd5e7-8d5b-49f8-8983-2e35b0a85b14
         a                     schema:Review ;
         schema:author         "grammymagga"^^xsd:string ;
         schema:datePublished  "2013-01-24T23:00:00Z"^^xsd:dateTime ;
         schema:description    "my granddaughter has been wanted a guitar and she is 10 years old and low and behold best buy sells guitars.who knew.very classy looking.her guitar teacher said it was a nice guitar.very well made not cheapy looking.she loves playing with it.a very durable guitar.i highly recomend this guitar."^^xsd:string ;
         schema:name           "bought it for my granddaughter and she loves it!!!"^^xsd:string ;
-        schema:reviewRating   products:3208e14d-5c92-4280-a9e5-41af603f3d7d .
+        schema:reviewRating   products:57d29b8a-8062-4041-bfa9-aea7195eb2ae .
 
-products:5de58256-eab1-4b36-97cb-1086113b75fa
+products:ab297dbe-a808-4cfb-baf4-b8a10a718a8e
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "1.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:1fea487f-e413-472f-a7f4-4289d855dc9d
+products:d9191308-6195-47c5-bdaf-3c74696fdd1b
         a                     schema:Review ;
         schema:author         "iTzLegendxZ"^^xsd:string ;
         schema:datePublished  "2013-01-19T23:00:00Z"^^xsd:dateTime ;
         schema:description    "You may be wanting a cheap guitar like this one but to be honest save your money! This guitar is very cheaply made. Save up and buy something higher in the price range $200- 400."^^xsd:string ;
         schema:name           "1 Simple Word Cheap!"^^xsd:string ;
-        schema:reviewRating   products:5de58256-eab1-4b36-97cb-1086113b75fa .
+        schema:reviewRating   products:ab297dbe-a808-4cfb-baf4-b8a10a718a8e .
 
-products:493824fc-0580-4f1d-8255-8fb545b13efc
+products:95f553ad-0788-4c30-8d36-d9de4dc05038
         a            schema:Brand ;
         schema:name  "Fender®"^^xsd:string .
 
-products:968163b2-07bf-4bc2-94ba-d3c6256beca0
+products:0a25b5cd-aab7-434a-ba13-e4325274293c
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:29a09197-aa53-483e-b366-648bc22d0457
+products:a214d277-89d9-4280-8d8b-ba300c88ae37
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "99.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:968163b2-07bf-4bc2-94ba-d3c6256beca0 .
+        schema:seller         products:0a25b5cd-aab7-434a-ba13-e4325274293c .
 
-products:3d3e3d87-a33f-48b3-a1ef-fa9b03fe0db7
+products:895b45c8-0016-44b7-aeb6-ec41e106d9bb
         a                       schema:Product ;
-        schema:aggregateRating  products:709fccb3-3159-476d-a4ae-6d7e1b2f34fe ;
-        schema:brand            products:493824fc-0580-4f1d-8255-8fb545b13efc ;
+        schema:aggregateRating  products:1cca298f-5ca4-426a-8b4b-adef445de3d7 ;
+        schema:brand            products:95f553ad-0788-4c30-8d36-d9de4dc05038 ;
         schema:description      "The new FA-100 Fender® Acoustic with gig bag offers great Fender® sound and tremendous value to everyone. A world of acoustic enjoyment starts right here  a rich-sounding dreadnought acoustic guitar with a padded gig bag for protection."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/5191/5191704_sa.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "950819100"^^xsd:string ;
         schema:name             "Fender® - FA-100 Acoustic Guitar - Natural"^^xsd:string ;
-        schema:offers           products:29a09197-aa53-483e-b366-648bc22d0457 ;
+        schema:offers           products:a214d277-89d9-4280-8d8b-ba300c88ae37 ;
         schema:productID        "5191704"^^xsd:string ;
-        schema:reviews          products:bea48dc1-c6ed-45fc-b1b3-e4f3fdbd148d , products:d868b852-3fe9-4c23-9afc-bb025963867c , products:b1c7cc81-a4ac-4309-acb0-527cc067744d , products:0dbc4527-67ad-4c8e-a232-cca7a1754655 , products:64c6b849-0a92-4550-ac28-ec5594b012ef , products:2f54f97a-6c5c-4171-932e-1687ccf74465 , products:e074a75b-599b-4dfd-97b4-7d26a9ee2988 , products:a85c4079-1527-4b56-9d21-aee8de00f7a5 , products:1fea487f-e413-472f-a7f4-4289d855dc9d ;
+        schema:reviews          products:42f0e5c4-aab7-4766-8cc6-5e053db616b2 , products:0795ca47-24bf-47a1-b631-4e3da0b6ddc0 , products:dd4c1d7b-960b-4cfa-b04e-f98ba5c49730 , products:1c5844ec-f3eb-440d-8eee-d3c05c1dc30e , products:42d07532-1eb8-47fd-b53a-c668b4c559bf , products:fdee13df-0e71-4e95-b0bf-193efbb2d400 , products:66c0eb0d-8649-4b75-8d9b-47589f523658 , products:6c0dd5e7-8d5b-49f8-8983-2e35b0a85b14 , products:d9191308-6195-47c5-bdaf-3c74696fdd1b ;
         schema:url              <http://www.bestbuy.com/site/fender-fa-100-acoustic-guitar-natural/5191704.p?id=1218623856938&skuId=5191704> .
 
-products:4fd6da8c-f4ce-4ed6-8900-4a2a26e38659
+products:65aa4cfc-cced-48bd-8b5c-a92233a56ccc
         a                   schema:AggregateRating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:reviewCount  1 ;
         schema:worstRating  1 .
 
-products:bf9690a2-b4a0-4574-86b7-d014d9bf2267
+products:cf57ad8c-cae8-4b9f-9dad-ef1c823ff773
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:e4700f89-cf31-4294-855b-945b1dcaa8c8
+products:ff2d4cd7-1b88-477d-9c0a-41343c1edaab
         a                     schema:Review ;
-        schema:author         "supert25"^^xsd:string ;
-        schema:datePublished  "2013-06-06T22:00:00Z"^^xsd:dateTime ;
-        schema:description    "I bought this guitar as a gift for my wife. Wasn't sure what to buy. Talked with a store associate and he recommended this guitar. It comes with a carrying case, picks and a tuner. She really loved it. It sounds great and looks great."^^xsd:string ;
-        schema:name           "Great starter Guitar"^^xsd:string ;
-        schema:reviewRating   products:bf9690a2-b4a0-4574-86b7-d014d9bf2267 .
+        schema:author         "bics"^^xsd:string ;
+        schema:datePublished  "2013-08-29T22:00:00Z"^^xsd:dateTime ;
+        schema:description    "this is a good starter pack. the tuner is fine. the cover is really too thin to be of any use. if you can get the pack on sale, it's a good deal."^^xsd:string ;
+        schema:name           "good bundle"^^xsd:string ;
+        schema:reviewRating   products:cf57ad8c-cae8-4b9f-9dad-ef1c823ff773 .
 
-products:c7e19da0-847c-4f6f-ae6a-885531e2f5f8
+products:2703659f-d8b5-47af-884a-b80f7cbbfd6a
         a            schema:Brand ;
-        schema:name  "Cordoba"^^xsd:string .
+        schema:name  "D'Addario"^^xsd:string .
 
-products:edc58e9b-4a9f-4ec0-beb3-13da12501e24
+products:4063721e-166d-4009-8bf7-d6698ff90965
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:27043689-44e3-407e-8902-9eecde45504e
+products:2c7c2a8b-84c2-4582-a69a-04ff9b9ed837
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "149.99"^^xsd:double ;
+        schema:price          "29.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:edc58e9b-4a9f-4ec0-beb3-13da12501e24 .
+        schema:seller         products:4063721e-166d-4009-8bf7-d6698ff90965 .
 
-products:c4363422-32c1-4d87-a2a0-28b9ba9c616c
+products:a8903a27-6902-48c4-95a6-72f485406ed9
         a                       schema:Product ;
-        schema:aggregateRating  products:4fd6da8c-f4ce-4ed6-8900-4a2a26e38659 ;
-        schema:brand            products:c7e19da0-847c-4f6f-ae6a-885531e2f5f8 ;
-        schema:description      "With a fan-braced soundboard and open-pore matte/satin finish for vibrant tone, this spruce-top, nato-body Cordoba CP100 acoustic guitar delivers impressive riffs. The included picks, tuner and guitar chord and lesson book help you get playing quickly."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/4875/4875688_sa.jpg;canvasHeight=150;canvasWidth=105> ;
-        schema:model            "CP100"^^xsd:string ;
-        schema:name             "Cordoba - CP100 6-String Classical Full-Size Acoustic Nylon String Guitar Pack - Natural"^^xsd:string ;
-        schema:offers           products:27043689-44e3-407e-8902-9eecde45504e ;
-        schema:productID        "4875688"^^xsd:string ;
-        schema:reviews          products:e4700f89-cf31-4294-855b-945b1dcaa8c8 ;
-        schema:url              <http://www.bestbuy.com/site/cordoba-cp100-6-string-classical-full-size-acoustic-nylon-string-guitar-pack-natural/4875688.p?id=1218562658283&skuId=4875688> .
+        schema:aggregateRating  products:65aa4cfc-cced-48bd-8b5c-a92233a56ccc ;
+        schema:brand            products:2703659f-d8b5-47af-884a-b80f7cbbfd6a ;
+        schema:description      "This D'Addario PW-BBGB-02 acoustic guitar bundle includes phosphor-bronze strings, a string winder and cutter, 10 celluloid picks, a headstock tuner and an untreated polish cloth to help you keep your guitar in playing shape."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/8847/8847507_sa.jpg;canvasHeight=109;canvasWidth=105> ;
+        schema:model            "PW-BBGB-02"^^xsd:string ;
+        schema:name             "D'Addario - Acoustic Guitar Bundle"^^xsd:string ;
+        schema:offers           products:2c7c2a8b-84c2-4582-a69a-04ff9b9ed837 ;
+        schema:productID        "8847507"^^xsd:string ;
+        schema:reviews          products:ff2d4cd7-1b88-477d-9c0a-41343c1edaab ;
+        schema:url              <http://www.bestbuy.com/site/daddario-acoustic-guitar-bundle/8847507.p?id=1218912948932&skuId=8847507> .
 
-products:bc375878-f52d-4792-aefc-e70081a215a0
+products:19365845-646f-42dc-8a45-c2fe5311c8e0
         a                   schema:AggregateRating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.3"^^xsd:double ;
         schema:reviewCount  3 ;
         schema:worstRating  1 .
 
-products:633e4773-26e1-4352-b37c-b7631cbe0123
+products:d56771f7-e806-4dae-95b0-19df8f0cd8fb
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:8d3b8ea3-49c0-400f-96a3-0c08f604e8c1
+products:937a591f-9c87-491b-a2ca-1937f350b504
         a                     schema:Review ;
         schema:author         "Guitarhal"^^xsd:string ;
         schema:datePublished  "2013-06-23T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I have been playing for 40 yrs and have a bunch of guitars. Got this as a gift. It is a blast to play, sounds great. This is not a toy, glad I have it in the collection."^^xsd:string ;
         schema:name           "Lots of fun and sounds great"^^xsd:string ;
-        schema:reviewRating   products:633e4773-26e1-4352-b37c-b7631cbe0123 .
+        schema:reviewRating   products:d56771f7-e806-4dae-95b0-19df8f0cd8fb .
 
-products:0ae3977c-4d62-444b-ae84-a09263872c6f
+products:e8edc69a-e52d-48fe-a4fd-dd56d4405d7d
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:fcc4daf6-d0f2-442c-9d69-8a1845f0559c
+products:18d9d84e-226a-4e7e-b37b-399d15297cb1
         a                     schema:Review ;
         schema:author         "Techguy53"^^xsd:string ;
         schema:datePublished  "2013-04-14T22:00:00Z"^^xsd:dateTime ;
         schema:description    "We have been please with this product, not as high quality as others on the market, but works just fine for a beginner."^^xsd:string ;
         schema:name           "Nice entry level guitar"^^xsd:string ;
-        schema:reviewRating   products:0ae3977c-4d62-444b-ae84-a09263872c6f .
+        schema:reviewRating   products:e8edc69a-e52d-48fe-a4fd-dd56d4405d7d .
 
-products:21ea89a9-5860-49c1-a2e8-a4f94ea1f5f0
+products:e92b5476-68af-4924-aac6-b297c7fc6969
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:f0f75f69-b94f-4484-99a5-80fc9dde01d1
+products:5c4b3025-46cc-4213-a739-df9570ace1f0
         a                     schema:Review ;
         schema:author         "Funwithguitars"^^xsd:string ;
         schema:datePublished  "2013-03-14T23:00:00Z"^^xsd:dateTime ;
         schema:description    "Very happy with the quality and sound. Have owned other Cordoba instruments before and this was no disappointment."^^xsd:string ;
         schema:name           "Very good value!"^^xsd:string ;
-        schema:reviewRating   products:21ea89a9-5860-49c1-a2e8-a4f94ea1f5f0 .
+        schema:reviewRating   products:e92b5476-68af-4924-aac6-b297c7fc6969 .
 
-products:e110d1bf-36ff-420a-948c-ff868c13a6da
+products:e476f5d0-a794-4870-b76b-cf553e5b555f
         a            schema:Brand ;
         schema:name  "Cordoba"^^xsd:string .
 
-products:1753725d-7609-4490-bd46-05da10c5ed41
+products:43ba62bd-bb0a-49a7-802f-a41fa8de9914
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:ae2a8e66-dff9-4376-9a10-4e779bb5c79e
+products:ab799190-04de-455a-9a28-ea560d3896a7
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "99.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:1753725d-7609-4490-bd46-05da10c5ed41 .
+        schema:seller         products:43ba62bd-bb0a-49a7-802f-a41fa8de9914 .
 
-products:777cc1bd-c6ee-40cd-b758-5e2df927808d
+products:67d52c27-79fb-4274-9882-e6d0d29bb8b3
         a                       schema:Product ;
-        schema:aggregateRating  products:bc375878-f52d-4792-aefc-e70081a215a0 ;
-        schema:brand            products:e110d1bf-36ff-420a-948c-ff868c13a6da ;
+        schema:aggregateRating  products:19365845-646f-42dc-8a45-c2fe5311c8e0 ;
+        schema:brand            products:e476f5d0-a794-4870-b76b-cf553e5b555f ;
         schema:description      "This Cordoba 6-string guilele combines a fan-braced soundboard and open-pore matte/satin finish for impressive tone in a ukulele-style design. The included picks, tuner and guitar chord and lesson book help you get playing quickly."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/4875/4875651_sa.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "GP100"^^xsd:string ;
         schema:name             "Cordoba - GP100 6-String Acoustic Nylon String Guilele Pack - Natural"^^xsd:string ;
-        schema:offers           products:ae2a8e66-dff9-4376-9a10-4e779bb5c79e ;
+        schema:offers           products:ab799190-04de-455a-9a28-ea560d3896a7 ;
         schema:productID        "4875651"^^xsd:string ;
-        schema:reviews          products:8d3b8ea3-49c0-400f-96a3-0c08f604e8c1 , products:fcc4daf6-d0f2-442c-9d69-8a1845f0559c , products:f0f75f69-b94f-4484-99a5-80fc9dde01d1 ;
+        schema:reviews          products:937a591f-9c87-491b-a2ca-1937f350b504 , products:18d9d84e-226a-4e7e-b37b-399d15297cb1 , products:5c4b3025-46cc-4213-a739-df9570ace1f0 ;
         schema:url              <http://www.bestbuy.com/site/cordoba-gp100-6-string-acoustic-nylon-string-guilele-pack-natural/4875651.p?id=1218562658435&skuId=4875651> .
 
-products:f47b7532-ead1-4f7b-83d2-44592102b593
+products:d509d57e-999d-43c3-aa58-019c6aafbed4
         a                   schema:AggregateRating ;
-        schema:bestRating   0 ;
-        schema:ratingValue  "0.0"^^xsd:double ;
-        schema:reviewCount  0 ;
-        schema:worstRating  0 .
+        schema:bestRating   5 ;
+        schema:ratingValue  "5.0"^^xsd:double ;
+        schema:reviewCount  1 ;
+        schema:worstRating  1 .
 
-products:28304b4d-b1e4-4f0d-9e37-58c2ea160fa5
-        a            schema:Brand ;
-        schema:name  "Washburn"^^xsd:string .
-
-products:fef4aea9-d156-4dee-96cb-bc46b4b19367
-        a            schema:Organization ;
-        schema:name  "BestBuy"^^xsd:string .
-
-products:df50c3d7-bdbb-4a41-b851-e67c682a79c6
-        a                     schema:Offer ;
-        schema:availability   "InStock"^^xsd:string ;
-        schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "249.99"^^xsd:double ;
-        schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:fef4aea9-d156-4dee-96cb-bc46b4b19367 .
-
-products:6e399b86-4431-45f2-8d71-5b804057138c
-        a                       schema:Product ;
-        schema:aggregateRating  products:f47b7532-ead1-4f7b-83d2-44592102b593 ;
-        schema:brand            products:28304b4d-b1e4-4f0d-9e37-58c2ea160fa5 ;
-        schema:description      "Bluegrass and folk aficionados will love this 5-string banjo that features a mahogany resonator and cast aluminum tone ring for clear, rich sound and chrome die-cast tuners with a chrome arm rest for quality construction."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9541/9541061_ra.jpg;canvasHeight=150;canvasWidth=105> ;
-        schema:model            "B9"^^xsd:string ;
-        schema:name             "Washburn - 5-String Banjo"^^xsd:string ;
-        schema:offers           products:df50c3d7-bdbb-4a41-b851-e67c682a79c6 ;
-        schema:productID        "9541061"^^xsd:string ;
-        schema:url              <http://www.bestbuy.com/site/washburn-5-string-banjo/9541061.p?id=1218121455275&skuId=9541061> .
-
-products:d5af7ba6-b856-442b-a95b-99feee0a829d
+products:a2fe662d-2739-49b4-bb9b-059896fcbef1
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:b73a47d9-3f12-4cf3-b042-8edd9c822d28
+products:667bb159-ace5-493f-a8cf-152b716cdfc0
+        a                     schema:Review ;
+        schema:author         "WJV1023"^^xsd:string ;
+        schema:datePublished  "2013-06-29T22:00:00Z"^^xsd:dateTime ;
+        schema:description    "I was in my local BestBuy when I found the music area being converted to a new clearance section. The test areas still had some guitars on the wall and this little beauty was sitting with no tags on it. After tuning it I formed a couple simple chords; C, Am, F, G playing through the simple chord progression in various finger picking styles I was blown away with the warm and clean sound it produced. After about ten minutes I took it to the sales associate asked for the price and told him I would take it if I could get it for $450 since it was a demo. I went back to the closed room sat and played for another 10 minutes. To my surprise his manager agreed and we went to the register. Even more to my surprise the final price after tax was $321. The version I have is with the cedar top. The warmth that comes from this when playing simple scales to classical or Bosa Nova style music is amazing. A little vibrato after running scales on the trebles makes the C7 ring. I can't wait to get some more experience so I can truly appreciate this guitar."^^xsd:string ;
+        schema:name           "Great Classical Guitar"^^xsd:string ;
+        schema:reviewRating   products:a2fe662d-2739-49b4-bb9b-059896fcbef1 .
+
+products:a66527e0-23d1-4e2c-9c90-0e94567a7c32
+        a            schema:Brand ;
+        schema:name  "Cordoba"^^xsd:string .
+
+products:2bd145ef-be52-42f5-a247-2a888a79cc99
+        a            schema:Organization ;
+        schema:name  "BestBuy"^^xsd:string .
+
+products:c8108289-a6f4-4184-a4f3-7bdcb14e688e
+        a                     schema:Offer ;
+        schema:availability   "InStock"^^xsd:string ;
+        schema:itemCondition  "NewCondition"^^xsd:string ;
+        schema:price          "449.98"^^xsd:double ;
+        schema:priceCurrency  "USD"^^xsd:string ;
+        schema:seller         products:2bd145ef-be52-42f5-a247-2a888a79cc99 .
+
+products:3a9adb40-2e00-4f22-baa7-beac70994458
+        a                       schema:Product ;
+        schema:aggregateRating  products:d509d57e-999d-43c3-aa58-019c6aafbed4 ;
+        schema:brand            products:a66527e0-23d1-4e2c-9c90-0e94567a7c32 ;
+        schema:description      "This acoustic guitar features a 7-fan Torres-style bracing system for warm and resonant sound and nylon strings for comfortable playability. The included gig bag allows you to easily take your guitar with you while protecting it from damage."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9879/9879915_sa.jpg;canvasHeight=150;canvasWidth=105> ;
+        schema:model            "C7 Sp/In"^^xsd:string ;
+        schema:name             "Cordoba - C7 SP/IN C7 6-String Full-Size Acoustic Nylon String Guitar - Natural"^^xsd:string ;
+        schema:offers           products:c8108289-a6f4-4184-a4f3-7bdcb14e688e ;
+        schema:productID        "9879915"^^xsd:string ;
+        schema:reviews          products:667bb159-ace5-493f-a8cf-152b716cdfc0 ;
+        schema:url              <http://www.bestbuy.com/site/cordoba-c7-sp-in-c7-6-string-full-size-acoustic-nylon-string-guitar-natural/9879915.p?id=1218188308782&skuId=9879915> .
+
+products:5a294193-08dd-4e70-81f1-c28fbe2aa61a
+        a                   schema:Rating ;
+        schema:bestRating   5 ;
+        schema:ratingValue  "5.0"^^xsd:double ;
+        schema:worstRating  1 .
+
+products:14a2e27c-89d3-45d5-8ee1-891be7073261
         a                     schema:Review ;
         schema:author         "billymillymomilly"^^xsd:string ;
         schema:datePublished  "2013-07-06T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I've played guitar for 3 years now and this was my first guitar. I have like 5 more guitars but this really lasted. It is great for begginers. This guitar helped me see my potential of playing qn instrument I like. I won't recommend this for pros, but recommend for a first guitar,"^^xsd:string ;
         schema:name           "good for starters"^^xsd:string ;
-        schema:reviewRating   products:d5af7ba6-b856-442b-a95b-99feee0a829d .
+        schema:reviewRating   products:5a294193-08dd-4e70-81f1-c28fbe2aa61a .
 
-products:63688c68-1fa3-4968-8eb1-7188373b37ba
+products:33ac76d9-0880-4335-a053-5e64323cbc4f
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:65094d9a-9f4b-405f-b59a-78243c1dd65c
+products:3a9411bd-e5a6-449f-a479-e123d126e5e2
         a                     schema:Review ;
         schema:author         "parakeet22"^^xsd:string ;
         schema:datePublished  "2013-07-06T22:00:00Z"^^xsd:dateTime ;
         schema:description    "I got this guitar because I am a beginner and have always wanted to try playing the guitar. I think that this guitar is great! I have had it for about 2 months and nothing is broken or damaged. Once you have tuned it, it sounds great!"^^xsd:string ;
         schema:name           "Great guitar for beginners"^^xsd:string ;
-        schema:reviewRating   products:63688c68-1fa3-4968-8eb1-7188373b37ba .
+        schema:reviewRating   products:33ac76d9-0880-4335-a053-5e64323cbc4f .
 
-products:33e9d3ae-7023-4b6e-ae87-3656df3ea28f
+products:98890217-9e8e-4117-b69e-76206b60cca7
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:1ea68e11-e6e1-45b3-8b30-6f2596e4461a
+products:d144e250-2c49-4a84-bc45-07252501d761
         a                     schema:Review ;
         schema:author         "SPLINTERCHIEF"^^xsd:string ;
         schema:datePublished  "2013-04-25T22:00:00Z"^^xsd:dateTime ;
         schema:description    "Awesome acoustic guitar for beginners. Has everything you need to get started and the rest is up to you. Everything that it comes with is great plus it's from Gibson!"^^xsd:string ;
         schema:name           "Awesome!"^^xsd:string ;
-        schema:reviewRating   products:33e9d3ae-7023-4b6e-ae87-3656df3ea28f .
+        schema:reviewRating   products:98890217-9e8e-4117-b69e-76206b60cca7 .
 
-products:2912eb32-2e02-45e8-ad84-58571a3ab0a1
+products:8fd09f0c-8a81-4a47-bd1d-a93e90b7e24c
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:9cca9dba-7394-4a30-8ecf-7547fd324a25
+products:3eefa528-d7d5-4060-879a-429d2cf8d74e
         a                     schema:Review ;
         schema:author         "BbJii"^^xsd:string ;
         schema:datePublished  "2013-01-29T23:00:00Z"^^xsd:dateTime ;
         schema:description    "purchased as a gift for my son who is a beginner with the guitar and he has no problems learning to play it. The included cd is a great extra tool to have."^^xsd:string ;
         schema:name           "receiver is happy with this purchase"^^xsd:string ;
-        schema:reviewRating   products:2912eb32-2e02-45e8-ad84-58571a3ab0a1 .
+        schema:reviewRating   products:8fd09f0c-8a81-4a47-bd1d-a93e90b7e24c .
 
-products:056722f3-de5a-4fd3-b031-ff44c3fe806c
+products:e09ddf27-dda2-4978-91df-675d7c94329e
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "1.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:12080aef-c339-4284-be13-a354722dcca1
+products:7f0277c7-33c3-41b0-baef-13d18e0a7ddc
         a                     schema:Review ;
         schema:author         "Chrisdude11011"^^xsd:string ;
         schema:datePublished  "2013-01-25T23:00:00Z"^^xsd:dateTime ;
         schema:description    "Been playing electric, acoustic, and bass guitar for 17 years and when changing the strings on this new \"Gibson\" guitar 4 out of 6 tuning pegs broke!!! I have never seen anything like it in my life, these things just crumble and fall apart. As I said I've been playing professionally for a long time and have changed strings THOUSANDS OF TIMES on many, many models of guitars and this is an absolute joke. I am in shock and total disbelief that Gibson guitars would put this junk out there - it is basically a bait and switch tactic because Gibson Guitars are WORLD FAMOUS for creating the BEST guitars with the finest craftsmanship bar none...but the \"Maestro\" guitar is NOT a \"Gibson\" at all. I couldn't be more disappointed. Also, this thing has buzzed on the 2nd and 3rd frets of the low E and A string the entire time I've owned it. It comes with an allen wrench to adjust the truss rod but there is no truss rod in the neck! Ugh. I DO NOT RECOMMEND THIS GUITAR>"^^xsd:string ;
         schema:name           "Bridge pegs break first time you change the string"^^xsd:string ;
-        schema:reviewRating   products:056722f3-de5a-4fd3-b031-ff44c3fe806c .
+        schema:reviewRating   products:e09ddf27-dda2-4978-91df-675d7c94329e .
 
-products:330d474b-1658-420a-b6ac-e0778fd6601d
+products:4c5efa60-ac9d-461c-b180-d7226dca61e6
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "1.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:e9d7ad87-4530-4180-8402-2f5403a8022e
+products:4283d5cc-5e3e-46a3-9042-5556430bc2b4
         a                     schema:Review ;
         schema:author         "Pensionado"^^xsd:string ;
         schema:datePublished  "2013-01-25T23:00:00Z"^^xsd:dateTime ;
         schema:description    "I am not a professional player but I have owned other guitars. This one is difficult to tune and keep tuned and the sound is not good. I would not recommend it even for beginners. I returned the guitar."^^xsd:string ;
         schema:name           "A very poor guitar even for the price."^^xsd:string ;
-        schema:reviewRating   products:330d474b-1658-420a-b6ac-e0778fd6601d .
+        schema:reviewRating   products:4c5efa60-ac9d-461c-b180-d7226dca61e6 .
 
-products:e317c704-d600-48fd-aa16-e1c264bdc78b
+products:e83ec3ad-2511-40d8-9533-59e9d8f213f3
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:85a8945e-9454-4931-9fdb-ce6405a88ce1
+products:9c756cc4-ab1a-4a83-846f-55bbdc933f1a
         a                     schema:Review ;
         schema:author         "emmag"^^xsd:string ;
         schema:datePublished  "2013-01-25T23:00:00Z"^^xsd:dateTime ;
         schema:description    "My daughter wanted a guitar and I did not want to invest a lot in case she lost interest. This was the perfect size as she is smaller and great price for the beginner. Liked that it came with a bag and extra pics, strings and DVD. So far it has worked out great! She enjoys playing and I feel it was money well spent!"^^xsd:string ;
         schema:name           "Great guitar for beginner, nice size for teenager"^^xsd:string ;
-        schema:reviewRating   products:e317c704-d600-48fd-aa16-e1c264bdc78b .
+        schema:reviewRating   products:e83ec3ad-2511-40d8-9533-59e9d8f213f3 .
 
-products:fd4e8000-eee1-4e18-a522-3bd03aee839b
+products:df4f7f7f-6377-490c-9c5a-cf11cc409f0d
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "5.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:31729221-eefc-4562-a6fd-ca111e2948ff
+products:25d068e5-527c-4ae5-bf7b-8892b6605c2e
         a                     schema:Review ;
         schema:author         "SherK"^^xsd:string ;
         schema:datePublished  "2013-01-24T23:00:00Z"^^xsd:dateTime ;
         schema:description    "I've wanted to learn guitar for some time now and as I was checking out the \"deal of the day\" I spotted the guitar and noticed the price was totally affordable. Asked my brother about the brand, etc...(he's played guitar for years) and he said it was a good deal so I purchased it. I've been very happy with the sound of the guitar and the DVD has made it much easier to learn. It was a Christmas present to myself and I have been VERY pleased with my purchase."^^xsd:string ;
         schema:name           "Great guitar to learn on!!!"^^xsd:string ;
-        schema:reviewRating   products:fd4e8000-eee1-4e18-a522-3bd03aee839b .
+        schema:reviewRating   products:df4f7f7f-6377-490c-9c5a-cf11cc409f0d .
 
-products:81478542-ef36-4422-985c-97c8b2b47998
+products:4a009b41-a590-47e7-9036-4fc4e859cd80
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "4.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:ac71a790-df04-44fe-bea6-e6a431193bf3
+products:bfa6ef83-ff2b-486f-a40e-967bbc18e220
         a                     schema:Review ;
         schema:author         "rajsri"^^xsd:string ;
         schema:datePublished  "2012-12-26T23:00:00Z"^^xsd:dateTime ;
         schema:description    "I got this guitar for learning basic chords and playing small music bits.My guitar instructor commented \"You have one of the best Guitars\",not sure if he just mentioned as it was my first class :).But would recommend for starters like me."^^xsd:string ;
         schema:name           "Good for Starters"^^xsd:string ;
-        schema:reviewRating   products:81478542-ef36-4422-985c-97c8b2b47998 .
+        schema:reviewRating   products:4a009b41-a590-47e7-9036-4fc4e859cd80 .
 
-products:9aa99ff1-fd12-42a8-af59-e5a442491c79
+products:e0919b07-41eb-421b-9806-fe003c3d459f
         a                   schema:Rating ;
         schema:bestRating   5 ;
         schema:ratingValue  "3.0"^^xsd:double ;
         schema:worstRating  1 .
 
-products:59c133f7-f318-4df3-9a06-581f6bcf309a
+products:6016584e-54b8-4598-86a7-c5522969c3ca
         a                     schema:Review ;
         schema:author         "stoner420"^^xsd:string ;
         schema:datePublished  "2012-12-08T23:00:00Z"^^xsd:dateTime ;
         schema:description    "i bought this guitar as a gift for my dad. the frets are off. it comes with just about everything a beginner guitarist would need except a stand and a tuner. over all it's not that bad, but i was expecting more from Gibson. but i can't really complain since it was cheap. if you've been playing guitar for a while don't buy this guitar but it is a good beginner guitar."^^xsd:string ;
         schema:name           "good guitar for a beginner"^^xsd:string ;
-        schema:reviewRating   products:9aa99ff1-fd12-42a8-af59-e5a442491c79 .
+        schema:reviewRating   products:e0919b07-41eb-421b-9806-fe003c3d459f .
 
-products:ec911823-7114-4813-b5f5-6609e2f207ec
+products:b9fbf458-b829-4dbd-9646-ddeecd8d011c
         a                     schema:Offer ;
         schema:availability   ""^^xsd:string ;
         schema:itemCondition  ""^^xsd:string ;
         schema:price          "0.0"^^xsd:double ;
         schema:priceCurrency  ""^^xsd:string .
 
-products:7837a358-d798-45ec-be9c-6e7ef5eb4fbd
+products:ad277e32-fef6-40b8-82e4-0f3bf3a91361
         a                   schema:Product ;
         schema:description  ""^^xsd:string ;
         schema:model        "MAC1NACH"^^xsd:string ;
         schema:name         "Maestro by Gibson - 6-String Parlor-Size Acoustic Guitar"^^xsd:string ;
-        schema:offers       products:ec911823-7114-4813-b5f5-6609e2f207ec ;
+        schema:offers       products:b9fbf458-b829-4dbd-9646-ddeecd8d011c ;
         schema:productID    ""^^xsd:string ;
-        schema:reviews      products:b73a47d9-3f12-4cf3-b042-8edd9c822d28 , products:65094d9a-9f4b-405f-b59a-78243c1dd65c , products:1ea68e11-e6e1-45b3-8b30-6f2596e4461a , products:9cca9dba-7394-4a30-8ecf-7547fd324a25 , products:12080aef-c339-4284-be13-a354722dcca1 , products:e9d7ad87-4530-4180-8402-2f5403a8022e , products:85a8945e-9454-4931-9fdb-ce6405a88ce1 , products:31729221-eefc-4562-a6fd-ca111e2948ff , products:ac71a790-df04-44fe-bea6-e6a431193bf3 , products:59c133f7-f318-4df3-9a06-581f6bcf309a .
+        schema:reviews      products:14a2e27c-89d3-45d5-8ee1-891be7073261 , products:3a9411bd-e5a6-449f-a479-e123d126e5e2 , products:d144e250-2c49-4a84-bc45-07252501d761 , products:3eefa528-d7d5-4060-879a-429d2cf8d74e , products:7f0277c7-33c3-41b0-baef-13d18e0a7ddc , products:4283d5cc-5e3e-46a3-9042-5556430bc2b4 , products:9c756cc4-ab1a-4a83-846f-55bbdc933f1a , products:25d068e5-527c-4ae5-bf7b-8892b6605c2e , products:bfa6ef83-ff2b-486f-a40e-967bbc18e220 , products:6016584e-54b8-4598-86a7-c5522969c3ca .
 
-products:bddf0182-06b9-4354-aee6-7807d6d4c675
-        a                   schema:AggregateRating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "4.0"^^xsd:double ;
-        schema:reviewCount  1 ;
-        schema:worstRating  1 .
-
-products:b9c880a4-f810-4b05-9749-3edbf65d8922
-        a                   schema:Rating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "4.0"^^xsd:double ;
-        schema:worstRating  1 .
-
-products:6a61008f-feb0-42db-a853-c3b7d9920dea
-        a                     schema:Review ;
-        schema:author         "bics"^^xsd:string ;
-        schema:datePublished  "2013-08-29T22:00:00Z"^^xsd:dateTime ;
-        schema:description    "this is a good starter pack. the tuner is fine. the cover is really too thin to be of any use. if you can get the pack on sale, it's a good deal."^^xsd:string ;
-        schema:name           "good bundle"^^xsd:string ;
-        schema:reviewRating   products:b9c880a4-f810-4b05-9749-3edbf65d8922 .
-
-products:5455f4ed-0dbc-4d57-b810-549d25570e0a
-        a            schema:Brand ;
-        schema:name  "D'Addario"^^xsd:string .
-
-products:fd5879a9-e980-496d-b75f-80c3678bd2de
-        a            schema:Organization ;
-        schema:name  "BestBuy"^^xsd:string .
-
-products:c2147360-a997-4dc8-b440-e5a37deded13
-        a                     schema:Offer ;
-        schema:availability   "InStock"^^xsd:string ;
-        schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "29.99"^^xsd:double ;
-        schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:fd5879a9-e980-496d-b75f-80c3678bd2de .
-
-products:ddd8b443-4968-4170-bb24-99cd92cfc8a7
-        a                       schema:Product ;
-        schema:aggregateRating  products:bddf0182-06b9-4354-aee6-7807d6d4c675 ;
-        schema:brand            products:5455f4ed-0dbc-4d57-b810-549d25570e0a ;
-        schema:description      "This D'Addario PW-BBGB-02 acoustic guitar bundle includes phosphor-bronze strings, a string winder and cutter, 10 celluloid picks, a headstock tuner and an untreated polish cloth to help you keep your guitar in playing shape."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/8847/8847507_sa.jpg;canvasHeight=109;canvasWidth=105> ;
-        schema:model            "PW-BBGB-02"^^xsd:string ;
-        schema:name             "D'Addario - Acoustic Guitar Bundle"^^xsd:string ;
-        schema:offers           products:c2147360-a997-4dc8-b440-e5a37deded13 ;
-        schema:productID        "8847507"^^xsd:string ;
-        schema:reviews          products:6a61008f-feb0-42db-a853-c3b7d9920dea ;
-        schema:url              <http://www.bestbuy.com/site/daddario-acoustic-guitar-bundle/8847507.p?id=1218912948932&skuId=8847507> .
-
-products:82270496-d2d8-44ed-af80-e6ae5eeea8c3
-        a                   schema:AggregateRating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "4.0"^^xsd:double ;
-        schema:reviewCount  1 ;
-        schema:worstRating  1 .
-
-products:41db130e-df15-41bd-9c85-418f30efc266
-        a                   schema:Rating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "4.0"^^xsd:double ;
-        schema:worstRating  1 .
-
-products:ef74333b-907f-4d40-b280-a260e46e7695
-        a                     schema:Review ;
-        schema:author         "Joeflash"^^xsd:string ;
-        schema:datePublished  "2013-07-09T22:00:00Z"^^xsd:dateTime ;
-        schema:description    "I bought this guitar as a back up to my Taylor and find myself picking it up more often. You can play it very soft or very hard and it's responsive. It stays in tune very well even when played outdoors. The only downside was the bottom side of the nut was uncomfortable on my hand when playing an occasional open chord. I filed it lightly and it solved that problem. The onboard tuner works fine during performance but I use a Peterson digital strobe tuner otherwise. I would buy it again in a heartbeat."^^xsd:string ;
-        schema:name           "Great Buy"^^xsd:string ;
-        schema:reviewRating   products:41db130e-df15-41bd-9c85-418f30efc266 .
-
-products:16c3b2f7-8405-4a03-a492-59c3cbae1ba0
-        a            schema:Brand ;
-        schema:name  "Washburn"^^xsd:string .
-
-products:92717fb3-886a-4466-9b77-f5ca819e8c51
-        a            schema:Organization ;
-        schema:name  "BestBuy"^^xsd:string .
-
-products:c2ac88a9-a7ee-46ec-8d45-2f8f6a038d2d
-        a                     schema:Offer ;
-        schema:availability   "InStock"^^xsd:string ;
-        schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "289.99"^^xsd:double ;
-        schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:92717fb3-886a-4466-9b77-f5ca819e8c51 .
-
-products:b0e71f1c-2df9-4323-9d5e-9cad620fe931
-        a                       schema:Product ;
-        schema:aggregateRating  products:82270496-d2d8-44ed-af80-e6ae5eeea8c3 ;
-        schema:brand            products:16c3b2f7-8405-4a03-a492-59c3cbae1ba0 ;
-        schema:description      "This classical guitar features a solid spruce top with mahogany back and sides for deep, rich tones and B-Band A3T electronics for enhancing live performances."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9541/9541631_x_ra.jpg;canvasHeight=150;canvasWidth=105> ;
-        schema:model            "C64SCE"^^xsd:string ;
-        schema:name             "Washburn - Classical Series 6-String Electric/Acoustic Classical Guitar"^^xsd:string ;
-        schema:offers           products:c2ac88a9-a7ee-46ec-8d45-2f8f6a038d2d ;
-        schema:productID        "9541631"^^xsd:string ;
-        schema:reviews          products:ef74333b-907f-4d40-b280-a260e46e7695 ;
-        schema:url              <http://www.bestbuy.com/site/washburn-classical-series-6-string-electric-acoustic-classical-guitar/9541631.p?id=1218121454595&skuId=9541631> .
-
-products:bf606d69-5757-470e-882b-7ad418e9f207
+products:df618882-26d1-45f6-8071-167e1db8ba23
         a                   schema:AggregateRating ;
         schema:bestRating   0 ;
         schema:ratingValue  "0.0"^^xsd:double ;
         schema:reviewCount  0 ;
         schema:worstRating  0 .
 
-products:162889b0-f431-4b7f-9f7d-81f2145171d7
+products:aaae3b2b-4d1d-4369-ba12-82abbe54eb6b
         a            schema:Brand ;
-        schema:name  "Washburn"^^xsd:string .
+        schema:name  "Ovation"^^xsd:string .
 
-products:0180e995-1867-4167-ad26-d86e35b79cb7
+products:27a50bee-a029-4532-a6fd-a3a5dbad7978
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:2ea34c57-446f-4307-8cea-d89ac0df50a3
+products:44aea440-3581-42c3-91f9-4bd21ae660f2
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "0.0"^^xsd:double ;
+        schema:price          "649.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:0180e995-1867-4167-ad26-d86e35b79cb7 .
+        schema:seller         products:27a50bee-a029-4532-a6fd-a3a5dbad7978 .
 
-products:9fa27f69-f950-4ba7-9499-6d77325342b9
+products:346587b7-5943-4a2b-9a26-b76733b09db2
         a                       schema:Product ;
-        schema:aggregateRating  products:bf606d69-5757-470e-882b-7ad418e9f207 ;
-        schema:brand            products:162889b0-f431-4b7f-9f7d-81f2145171d7 ;
-        schema:description      "Play beautiful music on this classic series guitar that features a rosewood bridge and fingerboard for stability and a solid grip while you play."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9541/9541427_ra.jpg;canvasHeight=150;canvasWidth=105> ;
-        schema:model            "C104SCE"^^xsd:string ;
-        schema:name             "Washburn - 6-String Classical Series Guitar - Natural"^^xsd:string ;
-        schema:offers           products:2ea34c57-446f-4307-8cea-d89ac0df50a3 ;
-        schema:productID        "9541427"^^xsd:string ;
-        schema:url              <http://www.bestbuy.com/site/washburn-6-string-classical-series-guitar-natural/9541427.p?id=1218121458051&skuId=9541427> .
+        schema:aggregateRating  products:df618882-26d1-45f6-8071-167e1db8ba23 ;
+        schema:brand            products:aaae3b2b-4d1d-4369-ba12-82abbe54eb6b ;
+        schema:description      "Play your favorite songs with this Ovation Elite T Series 6-string acoustic/electric guitar that features a 22-fret rosewood fingerboard for ease in playing. The solid cedar top helps produce a warm tone to enhance your music."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/4775/4775934_sa.jpg;canvasHeight=150;canvasWidth=105> ;
+        schema:model            "1778TX-4CS_131736"^^xsd:string ;
+        schema:name             "Ovation - Elite T Series 6-String Full-Size Cutaway Acoustic/Electric Guitar - Natural"^^xsd:string ;
+        schema:offers           products:44aea440-3581-42c3-91f9-4bd21ae660f2 ;
+        schema:productID        "4775934"^^xsd:string ;
+        schema:url              <http://www.bestbuy.com/site/ovation-elite-t-series-6-string-full-size-cutaway-acoustic-electric-guitar-natural/4775934.p?id=1218525518160&skuId=4775934> .
 
-products:98bb17ff-0db9-460f-bca0-98811b44deb9
+products:e20dfb40-5718-4300-ad26-594747051e5d
         a                   schema:AggregateRating ;
         schema:bestRating   0 ;
         schema:ratingValue  "0.0"^^xsd:double ;
         schema:reviewCount  0 ;
         schema:worstRating  0 .
 
-products:04340e8b-4041-4d1e-ab3c-c4aadf7f8ad5
-        a            schema:Brand ;
-        schema:name  "Luna Guitars"^^xsd:string .
-
-products:65181520-fe40-4c03-b00e-2fcd3dbfa4bd
-        a            schema:Organization ;
-        schema:name  "BestBuy"^^xsd:string .
-
-products:ff24a2d6-d4d5-47d9-a467-70637da7773d
-        a                     schema:Offer ;
-        schema:availability   "InStock"^^xsd:string ;
-        schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "369.99"^^xsd:double ;
-        schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:65181520-fe40-4c03-b00e-2fcd3dbfa4bd .
-
-products:b03d5f9b-dfca-4f34-bf23-6392aa385a20
-        a                       schema:Product ;
-        schema:aggregateRating  products:98bb17ff-0db9-460f-bca0-98811b44deb9 ;
-        schema:brand            products:04340e8b-4041-4d1e-ab3c-c4aadf7f8ad5 ;
-        schema:description      "Play your favorite songs with this Luna Guitars Fauna Eclipse FAU TPK acoustic/electric guitar that features a 3-band EQ and B-Band pickups to help you customize your sound. The 19-fret rosewood fingerboard and mahogany neck offer easy playability."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/5260/5260003_sa.jpg;canvasHeight=150;canvasWidth=105> ;
-        schema:model            "FAU TPK"^^xsd:string ;
-        schema:name             "Luna Guitars - Fauna Eclipse 6-String Parlor-Size Acoustic/Electric Guitar"^^xsd:string ;
-        schema:offers           products:ff24a2d6-d4d5-47d9-a467-70637da7773d ;
-        schema:productID        "5260003"^^xsd:string ;
-        schema:url              <http://www.bestbuy.com/site/luna-guitars-fauna-eclipse-6-string-parlor-size-acoustic-electric-guitar/5260003.p?id=1218628171249&skuId=5260003> .
-
-products:0b54546f-07ac-400f-a67a-8b65d4ae1c46
-        a                   schema:AggregateRating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "4.7"^^xsd:double ;
-        schema:reviewCount  3 ;
-        schema:worstRating  1 .
-
-products:ba0a6726-a9a5-46fd-b2a2-3317b4269087
-        a                   schema:Rating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "5.0"^^xsd:double ;
-        schema:worstRating  1 .
-
-products:6264d573-6b89-492a-b6bc-5eaf28d3a64c
-        a                     schema:Review ;
-        schema:author         "misslovely"^^xsd:string ;
-        schema:datePublished  "2013-09-05T22:00:00Z"^^xsd:dateTime ;
-        schema:description    "I really love this guitar! it sounds so good and it didn't cost me a fortune tp purchase it. It also came with a hard guitar case"^^xsd:string ;
-        schema:name           "Amazing guitar, and it sounds great!"^^xsd:string ;
-        schema:reviewRating   products:ba0a6726-a9a5-46fd-b2a2-3317b4269087 .
-
-products:8cd80138-b342-4425-9ed4-e4b32d7edd6f
-        a                   schema:Rating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "5.0"^^xsd:double ;
-        schema:worstRating  1 .
-
-products:e0a2df08-7d22-418f-ad77-4ae35ecb0a6e
-        a                     schema:Review ;
-        schema:author         "cstm"^^xsd:string ;
-        schema:datePublished  "2013-03-14T23:00:00Z"^^xsd:dateTime ;
-        schema:description    "I bought this as a surprise gift for my wedding anniversary. My husband loved it as he always wanted to play guitar. My 7-months old loves listening guitar when his dad plays for him. Sound is great and tuned very well. He has not used it frequently so far so not sure about durability but so far it plays good."^^xsd:string ;
-        schema:name           "Great guitar for a beginner."^^xsd:string ;
-        schema:reviewRating   products:8cd80138-b342-4425-9ed4-e4b32d7edd6f .
-
-products:cbf1ce4f-d56c-4f4a-9c7f-7fa2023c3f78
-        a                   schema:Rating ;
-        schema:bestRating   5 ;
-        schema:ratingValue  "4.0"^^xsd:double ;
-        schema:worstRating  1 .
-
-products:f61ae347-e01d-4e04-a9c5-ba7a3fe75e6f
-        a                     schema:Review ;
-        schema:author         "LastImmortal"^^xsd:string ;
-        schema:datePublished  "2012-01-21T23:00:00Z"^^xsd:dateTime ;
-        schema:description    "This is a good guitar for the beginners esp when you are looking for something under $200. This guitar comes with hard case (generally hard case are provided for higher priced guitars). For a laminated spruce top this guitar sounds good. this guitar needs to be tuned quite often. Overall it is a good entry level guitar with neat looks."^^xsd:string ;
-        schema:name           "The only entry level guitar w/hard case"^^xsd:string ;
-        schema:reviewRating   products:cbf1ce4f-d56c-4f4a-9c7f-7fa2023c3f78 .
-
-products:f308c1d8-95f1-4b7a-8b16-eb236f94da20
-        a            schema:Brand ;
-        schema:name  "Fender®"^^xsd:string .
-
-products:028712ea-3ed0-4ec7-9eb0-10b358a478f7
-        a            schema:Organization ;
-        schema:name  "BestBuy"^^xsd:string .
-
-products:c5bd5b37-bd24-4c3e-84e3-10afa5a2c39c
-        a                     schema:Offer ;
-        schema:availability   "InStock"^^xsd:string ;
-        schema:itemCondition  "NewCondition"^^xsd:string ;
-        schema:price          "199.99"^^xsd:double ;
-        schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:028712ea-3ed0-4ec7-9eb0-10b358a478f7 .
-
-products:5e25ce05-a943-4895-ac46-a27702f3971b
-        a                       schema:Product ;
-        schema:aggregateRating  products:0b54546f-07ac-400f-a67a-8b65d4ae1c46 ;
-        schema:brand            products:f308c1d8-95f1-4b7a-8b16-eb236f94da20 ;
-        schema:description      "The CD-60 dreadnought guitar boasts features you'd expect on much more expensive instruments, such as a spruce top and a natural finish."^^xsd:string ;
-        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/2140/2140161_sa.jpg;canvasHeight=150;canvasWidth=105> ;
-        schema:model            "0961539221"^^xsd:string ;
-        schema:name             "Fender® - CD-60 Dreadnought Guitar - Natural"^^xsd:string ;
-        schema:offers           products:c5bd5b37-bd24-4c3e-84e3-10afa5a2c39c ;
-        schema:productID        "2140161"^^xsd:string ;
-        schema:reviews          products:6264d573-6b89-492a-b6bc-5eaf28d3a64c , products:e0a2df08-7d22-418f-ad77-4ae35ecb0a6e , products:f61ae347-e01d-4e04-a9c5-ba7a3fe75e6f ;
-        schema:url              <http://www.bestbuy.com/site/fender-cd-60-dreadnought-guitar-natural/2140161.p?id=1218363394426&skuId=2140161> .
-
-products:8fba4021-ecd6-4862-8fd9-b6c33d704a6b
-        a                   schema:AggregateRating ;
-        schema:bestRating   0 ;
-        schema:ratingValue  "0.0"^^xsd:double ;
-        schema:reviewCount  0 ;
-        schema:worstRating  0 .
-
-products:98bc9a32-3fba-487e-bc21-e7ca4e1104a5
+products:126970bc-4fda-4ef0-9e04-07c9de24e4b0
         a            schema:Brand ;
         schema:name  "Cordoba"^^xsd:string .
 
-products:c53a7f34-c7bd-4909-82dc-7caa5fe494ed
+products:c9bd24b8-49c9-455c-a8ff-7e887f901dc1
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:0a5e711d-7336-42f3-9ff2-665250862c1d
+products:99c2fa38-4009-4a22-b0a1-10d60e950a40
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "289.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:c53a7f34-c7bd-4909-82dc-7caa5fe494ed .
+        schema:seller         products:c9bd24b8-49c9-455c-a8ff-7e887f901dc1 .
 
-products:0825c39a-ef95-4c79-b0b7-28456894680e
+products:be457d1b-444e-499c-8fd3-b7b469b6f4d0
         a                       schema:Product ;
-        schema:aggregateRating  products:8fba4021-ecd6-4862-8fd9-b6c33d704a6b ;
-        schema:brand            products:98bc9a32-3fba-487e-bc21-e7ca4e1104a5 ;
+        schema:aggregateRating  products:e20dfb40-5718-4300-ad26-594747051e5d ;
+        schema:brand            products:126970bc-4fda-4ef0-9e04-07c9de24e4b0 ;
         schema:description      "Keep this travel acoustic/electric guitar handy for composing music on your next trip."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9889/9889797_sa.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "La Playa Travel Guitar"^^xsd:string ;
         schema:name             "Cordoba - La Playa Travel Half-Size 6-String Nylon Acoustic/Electric Guitar"^^xsd:string ;
-        schema:offers           products:0a5e711d-7336-42f3-9ff2-665250862c1d ;
+        schema:offers           products:99c2fa38-4009-4a22-b0a1-10d60e950a40 ;
         schema:productID        "9889797"^^xsd:string ;
         schema:url              <http://www.bestbuy.com/site/cordoba-la-playa-travel-half-size-6-string-nylon-acoustic-electric-guitar/9889797.p?id=1218189805058&skuId=9889797> .
 
-products:1581326f-950d-4505-be38-630078d4a877
+products:84e2e068-6fdd-42fd-ae98-bef86ad462f2
         a                   schema:AggregateRating ;
         schema:bestRating   0 ;
         schema:ratingValue  "0.0"^^xsd:double ;
         schema:reviewCount  0 ;
         schema:worstRating  0 .
 
-products:3889f962-2398-4703-84ef-e39c3c7817a3
+products:61bcb934-39ee-45f5-95f2-2fa95988b28b
         a            schema:Brand ;
         schema:name  "Washburn"^^xsd:string .
 
-products:b9fd5856-c59d-4dcb-be05-fe5c2d12960d
+products:ce9c84f8-7c33-4074-a37e-7b5525345b0c
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:791881a6-250b-4d34-b5e4-5ffd3a6fe113
+products:da064d38-bdb1-4889-9990-cd7c2662071d
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "199.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:b9fd5856-c59d-4dcb-be05-fe5c2d12960d .
+        schema:seller         products:ce9c84f8-7c33-4074-a37e-7b5525345b0c .
 
-products:a11c6c3a-a197-484f-8717-981c6ee48f07
+products:d111f109-6565-4c3b-a5fe-e797fb42e9de
         a                       schema:Product ;
-        schema:aggregateRating  products:1581326f-950d-4505-be38-630078d4a877 ;
-        schema:brand            products:3889f962-2398-4703-84ef-e39c3c7817a3 ;
+        schema:aggregateRating  products:84e2e068-6fdd-42fd-ae98-bef86ad462f2 ;
+        schema:brand            products:61bcb934-39ee-45f5-95f2-2fa95988b28b ;
         schema:description      "This guitar features a double-action truss rod for easy neck adjustments and coated phosphor bronze strings for rich, warm tone. The solid Sitka spruce top and catalpa back and sides provide reliable durability."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9882/9882658_sa.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "WD7SATB"^^xsd:string ;
         schema:name             "Washburn - WD7S Series 6-String Full-Size Acoustic Guitar - Tobacco Sunburst"^^xsd:string ;
-        schema:offers           products:791881a6-250b-4d34-b5e4-5ffd3a6fe113 ;
+        schema:offers           products:da064d38-bdb1-4889-9990-cd7c2662071d ;
         schema:productID        "9882658"^^xsd:string ;
         schema:url              <http://www.bestbuy.com/site/washburn-wd7s-series-6-string-full-size-acoustic-guitar-tobacco-sunburst/9882658.p?id=1218188545719&skuId=9882658> .
 
-products:d490a527-45d0-4740-bf84-bd8261724269
+products:3145359f-d9f0-4dab-97ce-9efb4d6bd00a
         a                   schema:AggregateRating ;
         schema:bestRating   0 ;
         schema:ratingValue  "0.0"^^xsd:double ;
         schema:reviewCount  0 ;
         schema:worstRating  0 .
 
-products:a4699688-5533-4af9-82bc-a68d059c2bf1
+products:e1ae968b-048a-4486-93e2-e33787988004
         a            schema:Brand ;
         schema:name  "Washburn"^^xsd:string .
 
-products:37a75295-d9eb-4504-a074-717c07e4dfa7
+products:03ebf687-413c-4284-9e50-cf8d47c0b77e
         a            schema:Organization ;
         schema:name  "BestBuy"^^xsd:string .
 
-products:2fdef438-3113-487d-92c1-a0721b018e74
+products:54ca829d-b65d-4927-932b-c88ee37f229d
         a                     schema:Offer ;
         schema:availability   "InStock"^^xsd:string ;
         schema:itemCondition  "NewCondition"^^xsd:string ;
         schema:price          "449.99"^^xsd:double ;
         schema:priceCurrency  "USD"^^xsd:string ;
-        schema:seller         products:37a75295-d9eb-4504-a074-717c07e4dfa7 .
+        schema:seller         products:03ebf687-413c-4284-9e50-cf8d47c0b77e .
 
-products:1a161340-c8e1-44a5-826c-e2f3ac6307a9
+products:5291d211-7610-42eb-86f2-c3d98ee44441
         a                       schema:Product ;
-        schema:aggregateRating  products:d490a527-45d0-4740-bf84-bd8261724269 ;
-        schema:brand            products:a4699688-5533-4af9-82bc-a68d059c2bf1 ;
+        schema:aggregateRating  products:3145359f-d9f0-4dab-97ce-9efb4d6bd00a ;
+        schema:brand            products:e1ae968b-048a-4486-93e2-e33787988004 ;
         schema:description      "This guitar features a solid spruce top and Tamo ash back and sides for durable construction and a 20-fret rosewood fingerboard for easy playability. A Fishman Piezo pickup provides a classic rock sound."^^xsd:string ;
         schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9882/9882621_sa.jpg;canvasHeight=150;canvasWidth=105> ;
         schema:model            "WD30SCE"^^xsd:string ;
         schema:name             "Washburn - WD30 Series 6-String Full-Size Dreadnought Acoustic/Electric Guitar - Natural"^^xsd:string ;
-        schema:offers           products:2fdef438-3113-487d-92c1-a0721b018e74 ;
+        schema:offers           products:54ca829d-b65d-4927-932b-c88ee37f229d ;
         schema:productID        "9882621"^^xsd:string ;
         schema:url              <http://www.bestbuy.com/site/washburn-wd30-series-6-string-full-size-dreadnought-acoustic-electric-guitar-natural/9882621.p?id=1218188545342&skuId=9882621> .
+
+products:81b3851c-6710-419a-99ac-86cbafc71af2
+        a                   schema:AggregateRating ;
+        schema:bestRating   0 ;
+        schema:ratingValue  "0.0"^^xsd:double ;
+        schema:reviewCount  0 ;
+        schema:worstRating  0 .
+
+products:a7f4485a-3f01-4bda-a9e5-8ee907b54b45
+        a            schema:Brand ;
+        schema:name  "Washburn"^^xsd:string .
+
+products:9000e6d6-059f-4305-9815-4566a573c721
+        a            schema:Organization ;
+        schema:name  "BestBuy"^^xsd:string .
+
+products:58fa5745-21d3-4666-878a-7b281bf070e1
+        a                     schema:Offer ;
+        schema:availability   "InStock"^^xsd:string ;
+        schema:itemCondition  "NewCondition"^^xsd:string ;
+        schema:price          "349.99"^^xsd:double ;
+        schema:priceCurrency  "USD"^^xsd:string ;
+        schema:seller         products:9000e6d6-059f-4305-9815-4566a573c721 .
+
+products:3fa5c82f-1fa3-4c61-a22d-d690067546b7
+        a                       schema:Product ;
+        schema:aggregateRating  products:81b3851c-6710-419a-99ac-86cbafc71af2 ;
+        schema:brand            products:a7f4485a-3f01-4bda-a9e5-8ee907b54b45 ;
+        schema:description      "This acoustic guitar features a dreadnought-style body with a solid sitka spruce top and tamo ash sides and back to deliver a rich, expressive tone every time you play."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9882/9882579_500x500_sa.jpg;canvasHeight=150;canvasWidth=105> ;
+        schema:model            "WD30S"^^xsd:string ;
+        schema:name             "Washburn - WD30 Series 6-String Full-Size Dreadnought Acoustic Guitar - Natural"^^xsd:string ;
+        schema:offers           products:58fa5745-21d3-4666-878a-7b281bf070e1 ;
+        schema:productID        "9882579"^^xsd:string ;
+        schema:url              <http://www.bestbuy.com/site/washburn-wd30-series-6-string-full-size-dreadnought-acoustic-guitar-natural/9882579.p?id=1218188549626&skuId=9882579> .
+
+products:fb24c213-6f59-424f-84c2-a8322b916390
+        a                   schema:AggregateRating ;
+        schema:bestRating   0 ;
+        schema:ratingValue  "0.0"^^xsd:double ;
+        schema:reviewCount  0 ;
+        schema:worstRating  0 .
+
+products:d7fab7ad-ec4b-48d6-b234-f739322bc4fd
+        a            schema:Brand ;
+        schema:name  "Washburn"^^xsd:string .
+
+products:96f4995d-d313-4b87-b1f5-687f579691e7
+        a            schema:Organization ;
+        schema:name  "BestBuy"^^xsd:string .
+
+products:7fb922d0-9587-4dac-a775-9b8681d92af7
+        a                     schema:Offer ;
+        schema:availability   "InStock"^^xsd:string ;
+        schema:itemCondition  "NewCondition"^^xsd:string ;
+        schema:price          "249.99"^^xsd:double ;
+        schema:priceCurrency  "USD"^^xsd:string ;
+        schema:seller         products:96f4995d-d313-4b87-b1f5-687f579691e7 .
+
+products:455e31b9-733e-4860-96b7-1b451c4b206a
+        a                       schema:Product ;
+        schema:aggregateRating  products:fb24c213-6f59-424f-84c2-a8322b916390 ;
+        schema:brand            products:d7fab7ad-ec4b-48d6-b234-f739322bc4fd ;
+        schema:description      "This guitar features a solid Sitka spruce top and catalpa back and sides for a warm, rich tone. The 20-fret rosewood fingerboard offers easy playability, while the piezo electric pickups produce rocking sound."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9882/9882533_sa.jpg;canvasHeight=150;canvasWidth=105> ;
+        schema:model            "WD7SCEATB"^^xsd:string ;
+        schema:name             "Washburn - WD7S Series 6-String Full-Size Acoustic/Electric Guitar - Tobacco Sunburst"^^xsd:string ;
+        schema:offers           products:7fb922d0-9587-4dac-a775-9b8681d92af7 ;
+        schema:productID        "9882533"^^xsd:string ;
+        schema:url              <http://www.bestbuy.com/site/washburn-wd7s-series-6-string-full-size-acoustic-electric-guitar-tobacco-sunburst/9882533.p?id=1218188544655&skuId=9882533> .
+
+products:cbbc43c4-cc2c-4073-befa-23f385cd40bf
+        a                   schema:AggregateRating ;
+        schema:bestRating   0 ;
+        schema:ratingValue  "0.0"^^xsd:double ;
+        schema:reviewCount  0 ;
+        schema:worstRating  0 .
+
+products:ff6c18ea-f024-4a1d-8c18-b19d0a59fac3
+        a            schema:Brand ;
+        schema:name  "Washburn"^^xsd:string .
+
+products:6ba559ca-3c51-4f73-888f-7c15bf81b866
+        a            schema:Organization ;
+        schema:name  "BestBuy"^^xsd:string .
+
+products:7582c739-e210-4f6b-aab1-645db3d441fd
+        a                     schema:Offer ;
+        schema:availability   "InStock"^^xsd:string ;
+        schema:itemCondition  "NewCondition"^^xsd:string ;
+        schema:price          "281.98"^^xsd:double ;
+        schema:priceCurrency  "USD"^^xsd:string ;
+        schema:seller         products:6ba559ca-3c51-4f73-888f-7c15bf81b866 .
+
+products:e7abea9e-c42c-49b6-8c70-d0a53844a88a
+        a                       schema:Product ;
+        schema:aggregateRating  products:cbbc43c4-cc2c-4073-befa-23f385cd40bf ;
+        schema:brand            products:ff6c18ea-f024-4a1d-8c18-b19d0a59fac3 ;
+        schema:description      "This acoustic guitar features a 20-fret fingerboard that delivers exceptional tone and volume. The bone nut and saddle allow for secure string tension while you play."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9882/9882454_500x500_sa.jpg;canvasHeight=150;canvasWidth=105> ;
+        schema:model            "WD20S"^^xsd:string ;
+        schema:name             "Washburn - WD20 Series 6-String Dreadnought Acoustic Guitar - Natural"^^xsd:string ;
+        schema:offers           products:7582c739-e210-4f6b-aab1-645db3d441fd ;
+        schema:productID        "9882454"^^xsd:string ;
+        schema:url              <http://www.bestbuy.com/site/washburn-wd20-series-6-string-dreadnought-acoustic-guitar-natural/9882454.p?id=1218188545294&skuId=9882454> .
+
+products:ca4e6203-38a0-4cba-af8c-b81a77b9d7f8
+        a                   schema:AggregateRating ;
+        schema:bestRating   5 ;
+        schema:ratingValue  "5.0"^^xsd:double ;
+        schema:reviewCount  1 ;
+        schema:worstRating  1 .
+
+products:e94d3bb6-d7f9-4539-974b-46d0d777a008
+        a                   schema:Rating ;
+        schema:bestRating   5 ;
+        schema:ratingValue  "5.0"^^xsd:double ;
+        schema:worstRating  1 .
+
+products:f3dc683a-7181-497d-a002-cd0abb7ce540
+        a                     schema:Review ;
+        schema:author         "GoodGawdz"^^xsd:string ;
+        schema:datePublished  "2013-04-13T22:00:00Z"^^xsd:dateTime ;
+        schema:description    "Very good sound from these Washburn acoustics. Several clients have enjoyed the appearance."^^xsd:string ;
+        schema:name           "Washburn Guitar"^^xsd:string ;
+        schema:reviewRating   products:e94d3bb6-d7f9-4539-974b-46d0d777a008 .
+
+products:bc036e88-33a3-401a-91d7-850c52e30dbf
+        a            schema:Brand ;
+        schema:name  "Washburn"^^xsd:string .
+
+products:7677a3e6-b16c-4d1e-999e-726664e6273f
+        a            schema:Organization ;
+        schema:name  "BestBuy"^^xsd:string .
+
+products:2a2447a6-bc5b-444b-937b-d94afd3a5639
+        a                     schema:Offer ;
+        schema:availability   "InStock"^^xsd:string ;
+        schema:itemCondition  "NewCondition"^^xsd:string ;
+        schema:price          "299.99"^^xsd:double ;
+        schema:priceCurrency  "USD"^^xsd:string ;
+        schema:seller         products:7677a3e6-b16c-4d1e-999e-726664e6273f .
+
+products:b08115b6-45ad-4a3a-961f-e988549e0479
+        a                       schema:Product ;
+        schema:aggregateRating  products:ca4e6203-38a0-4cba-af8c-b81a77b9d7f8 ;
+        schema:brand            products:bc036e88-33a3-401a-91d7-850c52e30dbf ;
+        schema:description      "Play your favorite tunes on this acoustic/electric guitar that features a 20-fret rosewood fingerboard for stability and a solid grip while you play."^^xsd:string ;
+        schema:image            <http://pisces.bbystatic.com/image2/BestBuy_US/images/products/9882/9882358_sa.jpg;canvasHeight=150;canvasWidth=105> ;
+        schema:model            "WD10SCE"^^xsd:string ;
+        schema:name             "Washburn - 6-String Full-Size Dreadnought Acoustic/Electric Guitar - Natural"^^xsd:string ;
+        schema:offers           products:2a2447a6-bc5b-444b-937b-d94afd3a5639 ;
+        schema:productID        "9882358"^^xsd:string ;
+        schema:reviews          products:f3dc683a-7181-497d-a002-cd0abb7ce540 ;
+        schema:url              <http://www.bestbuy.com/site/washburn-6-string-full-size-dreadnought-acoustic-electric-guitar-natural/9882358.p?id=1218188549047&skuId=9882358> .

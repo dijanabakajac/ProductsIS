@@ -28,7 +28,8 @@ public class Main {
 			
 			//QueryService qs = new QueryService();
 		//ProductRestService qs=new ProductRestService();
-			//Collection<Product> col=qs.getProducts("6", "", "", true, "", "", "");
+		//String col=qs.getProducts("6", "", "", "", "", "", "");
+		//System.out.println(col);
 		//for(Product pr:col){
 				
 				//System.out.println(pr.getName());
